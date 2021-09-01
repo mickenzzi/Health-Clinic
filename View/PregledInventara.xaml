@@ -1,0 +1,20 @@
+﻿<Window x:Class="Bolnica.View.PregledInventara" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        Title="PregledInventara" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="Inventar" Margin="256,65,238.6,153">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tip Inventara" Binding="{Binding tipInventara}" Width="100"/>
+                <DataGridTextColumn Header="Kolicina" Binding="{Binding kolicina}" Width="100"/>
+                <DataGridTextColumn Header="Broj Sobe" Binding="{Binding brojSobe}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Povratak" Content="Povratak" Click="onClickPovratak" Margin="449,291,238.6,95"></Button>
+        <Button x:Name="Azuriraj" Content="Azuriraj" Click="onClickAzuriraj" Margin="256,291,431.6,95"></Button>
+    </Grid>
+</Window>

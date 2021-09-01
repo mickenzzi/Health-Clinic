@@ -1,0 +1,21 @@
+﻿<Window x:Class="Bolnica.View.ObrisiProstoriju" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.Model"
+        mc:Ignorable="d"
+        Title="ObrisiProstoriju" Height="450" Width="800">
+    <Grid Margin="516,221,-0.4,153">
+        <DataGrid x:Name="Sobe" Margin="-251,-160,228,10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Broj Sobe" Binding="{Binding brojSobe}" Width="100"/>
+                <DataGridTextColumn Header="Sprat" Binding="{Binding sprat}" Width="100"/>
+                <DataGridTextColumn Header="Tip Sobe" Binding="{Binding tip}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Potvrdi" Content="Potvrdi" Click="onClickPotvrdi" Margin="-251,63,419,-62"></Button>
+        <Button x:Name="Odustani" Content="Odustani" Click="onClickOdustani" Margin="-56,63,228,-61"></Button>
+
+    </Grid>
+</Window>

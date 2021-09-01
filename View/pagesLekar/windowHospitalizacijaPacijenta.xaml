@@ -1,0 +1,36 @@
+﻿<Window x:Class="Bolnica.View.pagesLekar.WindowHospitalizacijaPacijenta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View.pagesLekar"
+        mc:Ignorable="d"
+         Title="HospitalizacijaPacijenta" Height="500" Width="400">
+    <Grid Background="White">
+        <Label Content="Hospitalizacija" Margin="128,10,117,0" VerticalAlignment="Top" FontSize="20"/>
+        <Separator Height="20" Margin="91,50,90,0" VerticalAlignment="Top"/>
+
+        <Grid Margin="10,70,10,10" Background="#FFEBCC6D">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Content="Pacijent:" HorizontalAlignment="Left" Margin="30,33,0,0" VerticalAlignment="Top" FontSize="20"/>
+            <Button Content="Odustani" Margin="0,0,60,20" Height="30" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="100" FontSize="20" Click="Odustani"/>
+            <Button Content="Zakazi" HorizontalAlignment="Left" Margin="60,0,0,20" Width="100" Height="30" VerticalAlignment="Bottom" FontSize="20" Command="{Binding ZakaziHospitalizacijuCommand}" />
+            <TextBox x:Name="PacijentInfo" Margin="142,40,30,0" TextWrapping="Wrap" Text="{Binding PacijentInfo}" IsEnabled="False" FontSize="20" Height="30" VerticalAlignment="Top"/>
+            <DatePicker x:Name="DatumHospitalizacije" Margin="142,140,30,0" VerticalAlignment="Top" FontSize="20"/>
+            <Label Content="Soba:" HorizontalAlignment="Left" Margin="30,88,0,0" VerticalAlignment="Top" FontSize="20"/>
+            <ComboBox x:Name="Sobe" Margin="142,90,30,0" ItemsSource="{Binding Sobe}" SelectedItem="{Binding SelectedSoba}" FontSize="20" Height="33" VerticalAlignment="Top"/>
+            <Label Content="Datum:" HorizontalAlignment="Left" Margin="30,137,0,0" VerticalAlignment="Top" FontSize="20"/>
+            <Label Content="Trajanje:" HorizontalAlignment="Left" Margin="30,205,0,0" VerticalAlignment="Top" FontSize="20"/>
+            <TextBox x:Name="TrajanjeHospitalizacije" Margin="142,210,180,0" TextWrapping="Wrap" Text="{Binding TrajanjeHospitalizacije}" FontSize="20" Height="30" VerticalAlignment="Top" PreviewTextInput="NumberValidationTextBox"/>
+            <Label Content="(broj dana)" Margin="191,205,59.6,0" VerticalAlignment="Top" FontSize="20"/>
+            <Label Content="Krevet:" Margin="31,256,0,0" VerticalAlignment="Top" FontSize="20" HorizontalAlignment="Left" Width="70"/>
+            <CheckBox x:Name="TrenutnaHospitalizacija" IsChecked="{Binding TrenutnaHospitalizacijaCheck}" Content="Trenutna hospitalizacija?" Margin="142,180,30,0" VerticalAlignment="Top" FontSize="16" Checked="TrenutnaHospitalizacija_Checked" Unchecked="TrenutnaHospitalizacija_Unchecked"/>
+            <ComboBox x:Name="KrevetiInventar" Margin="142,260,30,0" ItemsSource="{Binding Kreveti}" SelectedItem="{Binding Path=SelectedKrevet}" FontSize="20" Height="33" VerticalAlignment="Top"/>
+        </Grid>
+
+
+    </Grid>
+</Window>

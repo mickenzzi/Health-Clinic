@@ -1,0 +1,51 @@
+﻿<Window x:Class="Bolnica.View.pagesSekretar.Views.StatistikaView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View.pagesSekretar.Views"
+          xmlns:DVC="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+      xmlns:DV="clr-namespace:System.Windows.Controls.DataVisualization;assembly=System.Windows.Controls.DataVisualization.Toolkit"
+        mc:Ignorable="d"
+        Title="StatistikaView" Height="620" Width="388"
+        ResizeMode="NoResize"
+        >
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF9087B8" Offset="0"/>
+                <GradientStop Color="#FFAFD4DC" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Button Content="Nazad" Click="Nazad" HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="54" RenderTransformOrigin="-3.287,-3" Canvas.Left="-441" Canvas.Top="404" Margin="33,538,0,0" BorderBrush="#FF574444">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFAE9C9C" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+        <DVC:Chart Canvas.Top="80" Canvas.Left="10" x:Name="mcChart" Margin="16,184,17,105" BorderBrush="{x:Null}">
+            <DVC:Chart.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF425059" Offset="0"/>
+                    <GradientStop Color="#FF6E9AB4" Offset="1"/>
+                </LinearGradientBrush>
+            </DVC:Chart.Background>
+            <DVC:PieSeries  
+            IndependentValueBinding="{Binding Key}"
+            DependentValueBinding="{Binding Value}" Margin="10,10,7,10"/>
+        </DVC:Chart>
+        <Canvas HorizontalAlignment="Left" Height="77" Margin="8,23,0,0" VerticalAlignment="Top" Width="367">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF425059" Offset="0"/>
+                    <GradientStop Color="#FF6E9AB8" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Label Content="Grafikon koji predstavlja odnos pacijenata &#xD;&#xA;prijavljenih kao hitan slucaj i onih koji to nisu" HorizontalAlignment="Left" Height="58" VerticalAlignment="Top" Width="358" FontSize="16" FontStyle="Italic" FontWeight="Bold" Canvas.Left="4" Canvas.Top="7" Foreground="White"/>
+        </Canvas>
+    </Grid>
+</Window>

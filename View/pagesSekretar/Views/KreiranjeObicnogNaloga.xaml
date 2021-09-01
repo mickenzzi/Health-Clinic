@@ -1,0 +1,58 @@
+﻿<Page x:Class="Bolnica.View.pagesSekretar.Views.KreiranjeObicnogNaloga"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bolnica.View.pagesSekretar.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="580" d:DesignWidth="375"
+      Title="KreiranjeObicnogNaloga" Background="White">
+    <Grid Margin="0,0,0,0">
+        <Label Content="Ime:" HorizontalAlignment="Left" Margin="39,135,0,0" VerticalAlignment="Top" Width="40"/>
+        <Label Content="Prezime:" HorizontalAlignment="Left" Margin="37,166,0,0" VerticalAlignment="Top" Width="68"/>
+        <Label Content="JMBG:" HorizontalAlignment="Left" Margin="38,197,0,0" VerticalAlignment="Top" Width="53"/>
+        <Label Content="Hitan slucaj:" HorizontalAlignment="Left" Margin="38,228,0,0" VerticalAlignment="Top" Width="91"/>
+        <TextBox HorizontalAlignment="Left" Name="JMBGP" Height="23" Margin="117,201,0,0" TextWrapping="Wrap" Text="{Binding Jmbg}" VerticalAlignment="Top" Width="147"/>
+        <TextBox HorizontalAlignment="Left" Name="PrezimeP" Height="23" Margin="117,170,0,0" TextWrapping="Wrap" Text="{Binding Prezime}" VerticalAlignment="Top" Width="147"/>
+        <TextBox HorizontalAlignment="Left" Name="ImeP" Height="23" Margin="117,138,0,0" TextWrapping="Wrap" Text="{Binding Ime}" VerticalAlignment="Top" Width="147"/>
+        <CheckBox Name="HitanP" IsChecked="{Binding HitanSlucaj}" HorizontalAlignment="Left" Margin="137,234,0,0" VerticalAlignment="Top" Width="19"/>
+        <Label Content="Datum rodjenja:" HorizontalAlignment="Left" Margin="38,253,0,0" VerticalAlignment="Top" Width="117"/>
+        <Label Content="Mesto stanovanja:" HorizontalAlignment="Left" Margin="37,294,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Content="Telefon:" HorizontalAlignment="Left" Margin="37,383,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.741,-2.331" Width="63"/>
+        <Label Content="Ulica,broj:" HorizontalAlignment="Left" Margin="37,352,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Content="Pol:" HorizontalAlignment="Left" Margin="38,321,0,0" VerticalAlignment="Top" Width="36"/>
+        <Label Content="Bracni status:" HorizontalAlignment="Left" Margin="37,414,0,0" VerticalAlignment="Top" Width="98"/>
+        <TextBox Name="DatumP" HorizontalAlignment="Left" Height="23" Margin="181,256,0,0" TextWrapping="Wrap" Text="{Binding DatumRodjenja}" VerticalAlignment="Top" Width="147"/>
+        <TextBox Name="MestoStanovanjaP" HorizontalAlignment="Left" Height="23" Margin="181,297,0,0" TextWrapping="Wrap" Text="{Binding MestoStanovanja}" VerticalAlignment="Top" Width="147"/>
+        <TextBox Name="UlicaIBrojP" HorizontalAlignment="Left" Height="23" Margin="137,356,0,0" TextWrapping="Wrap" Text="{Binding Ulica}" VerticalAlignment="Top" Width="147"/>
+        <TextBox Name="TelefonP" HorizontalAlignment="Left" Height="23" Margin="117,387,0,0" TextWrapping="Wrap" Text="{Binding Telefon}" VerticalAlignment="Top" Width="147"/>
+        <ComboBox Name="PolP"  Margin="90,325,201,0" VerticalAlignment="Top" AutomationProperties.IsOffscreenBehavior="Onscreen"  SelectedValue="{Binding PolPacijenta, UpdateSourceTrigger=PropertyChanged}" SelectedValuePath="Content">
+            <ComboBoxItem Content="Muski"/>
+            <ComboBoxItem Content="Zenski"/>
+        </ComboBox>
+        <ComboBox Name="BracniStatusP" Margin="117,414,171,0" VerticalAlignment="Top" SelectedValue="{Binding BracniStatusPacijenta, UpdateSourceTrigger=PropertyChanged}" SelectedValuePath="Content" AutomationProperties.IsOffscreenBehavior="Onscreen" Height="25">
+            <ComboBoxItem Content="NeozenjenNeudata"/>
+            <ComboBoxItem Content="OzenjenUdata"/>
+            <ComboBoxItem Content="RazvedenRazvedena;"/>
+            <ComboBoxItem Content="UdovacUdovica;"/>
+        </ComboBox>
+        <Separator HorizontalAlignment="Left" Height="32" Margin="17,51,0,0" VerticalAlignment="Top" Width="335" Background="Black"/>
+        <Label Content="Unos osnovnih informacija o pacijentu" HorizontalAlignment="Left" Margin="68,36,0,0" VerticalAlignment="Top" FontStyle="Italic" FontSize="14"/>
+        <Label Content="dd.mm.yyyy" HorizontalAlignment="Left" Margin="184,277,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="Red" FontSize="10"/>
+        <Canvas HorizontalAlignment="Left" Height="40" Margin="0,540,0,0" VerticalAlignment="Top" Width="375">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA2B4BD" Offset="0"/>
+                    <GradientStop Color="#FFD0D8DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Button HorizontalAlignment="Left" Height="36" Command="{Binding HomeCommand}" VerticalAlignment="Top" Width="36" BorderBrush="{x:Null}" Canvas.Left="171" Canvas.Top="2" Background="{x:Null}">
+                <Image HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="33" Source="/Bolnica;component/View/images/homean.png"/>
+            </Button>
+            <Button  Command="{Binding BackCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="36" Height="36" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="117" Canvas.Top="3">
+                <Image HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="27" Source="/Bolnica;component/View/images/bckan.png" RenderTransformOrigin="1.056,0.552"/>
+            </Button>
+        </Canvas>
+        <Button Content="Potvrdi" Command="{Binding AddObicanCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="26" Background="#FFAAAAAA" BorderBrush="Black" BorderThickness="1,1,1,4" Margin="151,482,0,0"/>
+    </Grid>
+</Page>

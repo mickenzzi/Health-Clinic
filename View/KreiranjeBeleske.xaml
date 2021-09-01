@@ -1,0 +1,17 @@
+﻿<Window x:Class="Bolnica.View.KreiranjeBeleske" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        Title="" Height="384" Width="512"
+         WindowStyle="None">
+    <Grid>
+        <Label Content="Naziv beleške:" Name="nazivBeleske"  FontWeight="SemiBold" FontSize="25" Margin="20,-4,20,330" ></Label>
+        <TextBox FontSize="25" BorderBrush="Black" BorderThickness="3" Name="sadrzaj" Margin="20,46,20,92"></TextBox>
+        <TextBox FontSize="25" Name="imeBeleske" Margin="196,0,20,335"></TextBox>
+        <Button x:Name="nazad" Content="Nazad" Click="onClickNazad" Margin="275,301,20,10" Height="65" FontSize="25" BorderThickness="2"/>
+        <Button x:Name="potvrdi" Content="Potvrdi" Click="onClickPotvrdi" Margin="20,301,267,10" Height="65" FontSize="25" BorderThickness="2"/>
+
+    </Grid>
+</Window>

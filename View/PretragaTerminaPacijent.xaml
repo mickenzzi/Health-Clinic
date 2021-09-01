@@ -1,0 +1,40 @@
+﻿<Window x:Class="Bolnica.View.PretragaTerminaPacijent" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        Title="PretragaTerminaPacijent" Height="450" Width="800">
+    <Grid Margin="310,369,-0.4,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="113*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Stroke="Black" Margin="-298,-342,47,229" Grid.ColumnSpan="2"/>
+
+        <DatePicker x:Name="DatumOd"  Margin="-161,-302,37,322" IsEnabled="False"/>
+        <DatePicker x:Name="DatumDo"  Margin="173,-303,123,323" IsEnabled="False" Grid.Column="1"/>
+        <ComboBox x:Name="lekari"  Margin="-161,-146,37,166"/>
+        <TextBox x:Name="brojSatiOd" Margin="-161,-244,135,267" IsEnabled="False"/>
+        <TextBox x:Name="brojMinutaOd" Margin="-63,-245,37,267" IsEnabled="False"/>
+        <TextBox x:Name="brojSatiDo" Margin="173,-246,221,267" IsEnabled="False" Grid.Column="1"/>
+        <TextBox x:Name="brojMinutaDo" Margin="271,-246,123,266" IsEnabled="False" Grid.Column="1"/>
+        <Label Content="Pocetni datum:" Margin="-274,-303,198,322"/>
+        <Label Content="Pretraga po datumu" Margin="-242,-342,140,354"/>
+        <Label Content="Krajnji datum:" Margin="60,-304,295,312" Grid.Column="1"/>
+        <Label Content="Vreme za pocetni:" Margin="-274,-245,193,263"/>
+        <Label Content="Vreme za krajnji:" Margin="55,-246,284,264" Grid.Column="1"/>
+        <Label Content="h" Margin="-98,-244,95,262"/>
+        <Label Content="h" Margin="231,-246,186,264" Grid.Column="1"/>
+        <Label Content="min" Margin="0,-244,445,262" Grid.ColumnSpan="2"/>
+        <Label Content="min" Margin="334,-246,79,264" Grid.Column="1"/>
+        <Label Content="Lekar:" Margin="-220,-146,198,164"/>
+        <CheckBox x:Name="bitnoVreme" Click="onClickCheckBox" Margin="-274,-335,274,354"/>
+
+        <Button x:Name="Pretrazi" Content="Pretrazi" Click="onClickPretrazi" Height="50" Margin="60,-146,258,129" Grid.Column="1"/>
+        <Button x:Name="Odsutani" Content="Odustani" Click="onClickOdustani" Height="50" Margin="231,-146,87,129" Grid.Column="1"/>
+
+
+    </Grid>
+</Window>

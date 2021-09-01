@@ -1,0 +1,22 @@
+﻿<Window x:Class="Bolnica.View.PregledProstorija" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.Model"
+        mc:Ignorable="d"
+        Title="PregledProstorija" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="Sobe" Margin="256,65,238.6,153">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Broj Sobe" Binding="{Binding BrojSobe}" Width="100"/>
+                <DataGridTextColumn Header="Sprat" Binding="{Binding Sprat}" Width="100"/>
+                <DataGridTextColumn Header="Tip Sobe" Binding="{Binding Tip}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Povratak" Content="Povratak" Click="onClickPovratak" Margin="365,353,329.6,33"></Button>
+        <Button x:Name="Azuriraj" Content="Azuriraj" Click="onClickAzuriraj" Margin="256,291,422.6,95"></Button>
+        <Button x:Name="ZakaziRenoviranje" Content="Zakazi renoviranje" Click="onClickZakaziRenoviranje" Margin="441,291,238.6,95"></Button>
+
+    </Grid>
+</Window>

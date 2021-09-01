@@ -1,0 +1,30 @@
+﻿<Window x:Class="Bolnica.View.KreiranjeProstorije" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.Model"
+        mc:Ignorable="d"
+        Title="KreiranjeProstorije" Height="450" Width="800">
+    <Grid Margin="0,0,-0.4,-20">
+        <Label Content="Osnovne informacije " Margin="106,10,561,377"></Label>
+        <Label Content="Informacije o bolesnickoj sobi " Margin="70,200,516,187"></Label>
+        <Label Content="Sifra sobe: " Margin="238,56,473,331"></Label>
+        <TextBox x:Name="Sifra" Margin="331,59,334,353"></TextBox>
+        <Label Content="Tip sobe: " Margin="238,109,463,278"></Label>
+        <ComboBox Name="TipSobe" Margin="331,111,334,289">
+            <ComboBoxItem Content="Operaciona sala"></ComboBoxItem>
+            <ComboBoxItem Content="Ordinacija" IsSelected ="True"></ComboBoxItem>
+            <ComboBoxItem Content="Bolesnicka soba"></ComboBoxItem>
+            <ComboBoxItem Content="Magacin"></ComboBoxItem>
+        </ComboBox>
+        <Separator Margin="246,195,242,192"/>
+        <Separator Margin="247,10,242,386"/>
+        <TextBox x:Name="Sprat" Margin="331,167,334,239"></TextBox>
+        <Label Content="Broj kreveta: " Margin="238,253,473,134"></Label>
+        <Label Content="Sprat: " Margin="238,162,473,225"></Label>
+        <Button x:Name="Potvrdi" Content="Potvrdi" Click="onClickPotvrdi" Margin="247,311,418,101"></Button>
+        <Button x:Name="Odustani" Content="Odustani" Click="onClickOdustani" Margin="423,311,242,101"></Button>
+        <TextBox x:Name="BrojKreveta" Margin="331,253,334,153"></TextBox>
+    </Grid>
+</Window>

@@ -1,0 +1,94 @@
+﻿<Window x:Class="Bolnica.View.LekarView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.Model"
+        mc:Ignorable="d"
+        Title="Lekar - početna" Height="720" Width="1280"
+        Closing="exitApp" FontSize="20"
+        >
+    <Grid Margin="0,0,0,0">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="151"/>
+            <ColumnDefinition Width="1122*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="38"/>
+        </Grid.RowDefinitions>
+
+
+
+        <Label Content="Lekar" Margin="535,18,478,0" VerticalAlignment="Top" FontSize="30" Grid.Column="1"/>
+        <Separator Height="100" Margin="129,18,127,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <ComboBox x:Name="LekariComboBox" ItemsSource="{Binding Lekari}" SelectedItem="{Binding SelectedLekar}" IsEditable="true" IsReadOnly="true" Text="--- Izaberite lekara ---" Margin="432,444,432,0" VerticalAlignment="Top" HorizontalAlignment="Center" Grid.Column="1" FontSize="24"/>
+        <Frame x:Name="frejm" NavigationUIVisibility="Hidden" Grid.Column="1"/>
+        <TextBox TextWrapping="Wrap" Text="" IsEnabled="False"  Grid.ColumnSpan="2" BorderThickness="2,2,2,5.7" Background="#FF9E9E9E" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" IsEnabled="False" VerticalAlignment="Bottom"  Margin="0,0,0,7" TextWrapping="Wrap" Text="  Bolnica Zdravo  " FontSize="20" FontWeight="Bold"  Width="190" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <TextBlock x:Name="Vreme" FontSize="20" VerticalAlignment="Bottom" FontWeight="Bold" IsEnabled="False" TextAlignment="Right" Grid.Column="1" Margin="891,0,0,7" Grid.Row="1"/>
+        <Grid HorizontalAlignment="Left" Width="150" Margin="0,0,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="93*"/>
+                <RowDefinition Height="93*"/>
+                <RowDefinition Height="93*"/>
+                <RowDefinition Height="93*"/>
+                <RowDefinition Height="93*"/>
+                <RowDefinition Height="93*"/>
+                <RowDefinition Height="93*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="Pocetna" Background="Orange" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Click="Pocetna_click" Cursor="Hand">
+                <StackPanel HorizontalAlignment="Stretch" Cursor="Hand">
+                    <Image Source="/Bolnica;component/View/images/LEKAR-Home.png" Height="36" Width="36" />
+                    <TextBlock>Početna</TextBlock>
+                </StackPanel>
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="0"/>
+                </Button.Effect>
+            </Button>
+            <Button x:Name="Prikazi" Command="{Binding PrikazTerminaCommand}" Background="Orange" Grid.Row="1" Cursor="Hand">
+                <StackPanel>
+                    <Image Source="/Bolnica;component/View/images/LEKAR-Patient.png" Height="36" Width="36" />
+                    <TextBlock VerticalAlignment="Bottom">Pacijenti</TextBlock>
+                </StackPanel>
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="0"/>
+                </Button.Effect>
+            </Button>
+            <Button x:Name="PrikazLekova" Command="{Binding PrikazLekovaCommand}" Background="Orange" Grid.Row="2" Cursor="Hand">
+                <StackPanel>
+                    <Image Source="/Bolnica;component/View/images/LEKAR-Lekovi.png" Height="40" Width="40" />
+                    <TextBlock VerticalAlignment="Bottom">Lekovi</TextBlock>
+                </StackPanel>
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="0"/>
+                </Button.Effect>
+            </Button>
+            <Button Background="Orange" Grid.Row="3">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="0"/>
+                </Button.Effect>
+            </Button>
+            <Button Background="Orange" Grid.Row="4">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="0"/>
+                </Button.Effect>
+            </Button>
+            <Button Background="Orange" Grid.Row="5">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="0"/>
+                </Button.Effect>
+            </Button>
+            <Button x:Name="Odjava" Click="Odjava_click" Background="Red" Grid.Row="6"  Cursor="Hand">
+                <StackPanel>
+                    <Image Source="/Bolnica;component/View/images/LEKAR-Logout.png" Height="36" Width="36" />
+                    <TextBlock VerticalAlignment="Bottom">Odjava</TextBlock>
+                </StackPanel>
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="15" ShadowDepth="0"/>
+                </Button.Effect>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

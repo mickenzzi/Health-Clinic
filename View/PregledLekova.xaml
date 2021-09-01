@@ -1,0 +1,21 @@
+﻿<Window x:Class="Bolnica.View.PregledLekova" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        Title="PregledLekova" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="Lekovi" Margin="186,65,186,153">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Naziv" Binding="{Binding naziv, Mode=OneWay}" Width="100"/>
+                <DataGridTextColumn Header="Kolicina" Binding="{Binding kolicina, Mode=OneWay}" Width="100"/>
+                <DataGridTextColumn Header="Broj Sobe" Binding="{Binding sifraSobe, Mode=OneWay}" Width="100"/>
+                <DataGridTextColumn Header="Odobren" Binding="{Binding stanjeLeka, Mode=OneWay}" Width="120"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Povratak" Content="Povratak" Click="onClickPovratak" Margin="440,291,248,95"></Button>
+        <Button x:Name="Azuriraj" Content="Azuriraj" Click="onClickAzuriraj" Margin="248,291,440,95"></Button>
+    </Grid>
+</Window>

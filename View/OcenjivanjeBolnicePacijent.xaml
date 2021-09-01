@@ -1,0 +1,43 @@
+﻿<Window x:Class="Bolnica.View.OcenjivanjeBolnicePacijent" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        Title="OcenjivanjeBolnicePacijent" Height="450" Width="800">
+    <Grid>
+        <Label Name="Label1"  
+    Content="Ocenite rad bolnice:" Height="40"  
+    Canvas.Left="10" Canvas.Top="10"   
+    FontSize="25"
+    FontWeight="Bold" Margin="291,55,244,324" RenderTransformOrigin="0.496,-0.177"/>
+        <Label Name="Label2"  
+    Content="Dodatni komentar:"  
+    Canvas.Left="10" Canvas.Top="10"   
+    FontSize="20"
+    Margin="92,149,462,226"/>
+        <RadioButton Name= "jedan" Margin="120,124,612,254" GroupName="OcenaBolnice" Background="White" Foreground="Black" >
+            1
+        </RadioButton>
+        <RadioButton Name= "dva" Margin="226,124,506,254" GroupName="OcenaBolnice" Background="White" Foreground="Black" >
+            2
+        </RadioButton>
+        <RadioButton Name= "tri" Margin="364,124,371,254" GroupName="OcenaBolnice" Background="White" Foreground="Black" >
+            3
+        </RadioButton>
+        <RadioButton Name= "cetiri" Margin="500,124,244,254" GroupName="OcenaBolnice" Background="White" Foreground="Black" >
+            4
+        </RadioButton>
+        <RadioButton Name= "pet" Margin="629,124,92,254" GroupName="OcenaBolnice" Background="White" Foreground="Black" >
+            5
+        </RadioButton>
+        <TextBox Name ="DodatniKomentar" Canvas.Top="50" Canvas.Left="20" Margin="92,193,92,73">
+
+        </TextBox>
+        <Button Name="PotvrdiOcenjivanje" Content="Potvrdi" Margin="226,369,428,10" Click="onClickPotvrdiOcenjivanjeBolnice">
+        </Button>
+        <Button Name="Odustani" Content="Odustani" Margin="429,369,225,10" Click="onClickOdustani">
+        </Button>
+    </Grid>
+</Window>

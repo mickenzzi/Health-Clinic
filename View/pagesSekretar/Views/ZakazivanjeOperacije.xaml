@@ -1,0 +1,66 @@
+﻿<Page x:Class="Bolnica.View.pagesSekretar.Views.ZakazivanjeOperacije"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bolnica.View.pagesSekretar.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="580" d:DesignWidth="375"
+      Title="ZakazivanjeOperacije">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFD2E2F9" Offset="0"/>
+                <GradientStop Color="#FFD5AEE4" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Canvas HorizontalAlignment="Left" Height="549" Margin="17,15,0,0" VerticalAlignment="Top" Width="343">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF294663" Offset="1"/>
+                    <GradientStop Color="#FFB396C3"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Canvas HorizontalAlignment="Left" Height="167" VerticalAlignment="Top" Width="274" Background="#FFAEBFA1" Canvas.Left="32" Canvas.Top="309">
+                <Canvas HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="222" Background="#FF27485B" Canvas.Left="24" Canvas.Top="9">
+                    <Label Content="Lekar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Foreground="White" Canvas.Left="85" Canvas.Top="-5"/>
+                </Canvas>
+                <DataGrid Height="117" IsReadOnly="True" CanUserAddRows="False" ItemsSource="{Binding Lekari}" SelectedItem="{Binding SelectedLekar}" x:Name="Lekari" Canvas.Left="32" Canvas.Top="38" Width="212">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Ime" Binding="{Binding Ime}" Width="110"/>
+                        <DataGridTextColumn Header="Prezime" Binding="{Binding Prezime}" Width="110"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Canvas>
+            <Canvas HorizontalAlignment="Left" Height="244" VerticalAlignment="Top" Width="274" Background="#FFAEBFA1" Canvas.Left="32" Canvas.Top="59">
+                <DatePicker HorizontalAlignment="Left" Text="{Binding Datum, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" x:Name="Kalendar" Height="168" VerticalAlignment="Top" Width="180" Canvas.Left="46" Canvas.Top="27" IsDropDownOpen="True" SelectedDateFormat="Short"/>
+                <Canvas HorizontalAlignment="Left" Height="21" VerticalAlignment="Top" Width="222" Background="#FF27485B" Canvas.Left="25" Canvas.Top="5">
+                    <Label Content="Datum termina" HorizontalAlignment="Left" Height="23" VerticalAlignment="Top" Canvas.Left="60" Canvas.Top="-3" Foreground="White"/>
+                </Canvas>
+                <Label Content="Vreme termina:" HorizontalAlignment="Left" Height="29" VerticalAlignment="Top" Canvas.Left="28" Canvas.Top="203"/>
+                <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Vreme}" x:Name="Vreme" VerticalAlignment="Top" Width="120" Foreground="Black" Canvas.Left="135" Canvas.Top="206"/>
+                <Label Content="HH:MM" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Foreground="Red" RenderTransformOrigin="-4.63,-0.923" Canvas.Left="136" Canvas.Top="224" FontSize="10"/>
+            </Canvas>
+            <Canvas HorizontalAlignment="Left" Height="47" VerticalAlignment="Top" Width="316" Background="#FF1D5EAC" Canvas.Left="13" Canvas.Top="6">
+                <Label Content="Unos podataka operacije" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="64" Canvas.Top="6" FontSize="18" FontStyle="Italic" Foreground="White"/>
+            </Canvas>
+            <Button Content="Potvrdi" Command="{Binding ZakaziOperacijuCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="25" Canvas.Left="136" Canvas.Top="482" Background="#FFAAAAAA" BorderBrush="Black" BorderThickness="1,1,1,4"/>
+        </Canvas>
+        <TextBox HorizontalAlignment="Left" x:Name="JMBG1" Height="23" Margin="653,88,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Visibility="Hidden"/>
+        <Canvas HorizontalAlignment="Left" Height="40" Margin="0,540,0,0" VerticalAlignment="Top" Width="375">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA2B4BD" Offset="0"/>
+                    <GradientStop Color="#FFD0D8DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Button HorizontalAlignment="Left" Height="36" Command="{Binding HomeCommand}" VerticalAlignment="Top" Width="36" BorderBrush="{x:Null}" Canvas.Left="171" Canvas.Top="2" Background="{x:Null}">
+                <Image HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="33" Source="/Bolnica;component/View/images/homean.png"/>
+            </Button>
+            <Button Command="{Binding BackCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="36" Height="36" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="117" Canvas.Top="3">
+                <Image HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="27" Source="/Bolnica;component/View/images/bckan.png" RenderTransformOrigin="1.056,0.552"/>
+            </Button>
+        </Canvas>
+    </Grid>
+</Page>

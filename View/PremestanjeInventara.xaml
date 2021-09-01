@@ -1,0 +1,44 @@
+﻿<Window x:Class="Bolnica.View.PremestanjeInventara" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        Title="PremestanjeInventara" Height="450" Width="800">
+    <Grid>
+        <Label Content="Soba iz koje premestate: " Margin="10,41,637.6,331"></Label>
+        <Label Content="Kolicina: " Margin="221,101,488,273" RenderTransformOrigin="-0.387,1.141"></Label>
+        <TextBox x:Name="soba1" Margin="161,39,538.6,352" ></TextBox>
+        <DataGrid x:Name="InventarSobe1" Margin="10,92,581.6,126">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tip Inventara" Binding="{Binding tipInventara}" Width="100"/>
+                <DataGridTextColumn Header="Kolicina" Binding="{Binding kolicina}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="InventarSobe2" Margin="582,92,9.6,126">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Tip Inventara" Binding="{Binding tipInventara}" Width="100"/>
+                <DataGridTextColumn Header="Kolicina" Binding="{Binding kolicina}" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="Povratak" Content="Povratak" Click="onClickPovratak" Margin="419,352,289.6,34"></Button>
+        <Button x:Name="Azuriraj" Content="Premesti" Click="onClickPremesti" Margin="258,352,450.6,34"></Button>
+        <Button x:Name="Prikazi1" Content="Prikazi" Click="onClickPrikazi1" Margin="287,41,445.6,350"></Button>
+        <Button x:Name="Prikazi2" Content="Prikazi" Click="onClickPrikazi2" Margin="723,39,9.6,352"/>
+        <TextBox x:Name="soba2" Margin="596,39,103.6,352" />
+        <Label Content="Soba u koju premestate: " Margin="450,39,197.6,335"/>
+        <Label Content="Datum prmestanja: " Margin="221,151,441.6,222"></Label>
+        <Label Content="Vreme premestanja: " Margin="212,211,450.6,161"></Label>
+        <Label Content="h" Margin="410,211,343.6,161"></Label>
+        <Label Content="min" Margin="514,209,233.6,163"></Label>
+        <DatePicker Name="DatumPomeranja" Margin="352,152,285.6,233">
+            <DatePicker.BlackoutDates>
+                <CalendarDateRange Start="1/1/2010" End="4/18/2020"/>
+            </DatePicker.BlackoutDates>
+        </DatePicker>
+        <TextBox x:Name="brojSati" Margin="348,211,391.6,182"></TextBox>
+        <TextBox x:Name="brojMinuta" Margin="450,211,289.6,182"></TextBox>
+        <TextBox x:Name="kolicina" Margin="352,101,356.6,290" />
+    </Grid>
+</Window>

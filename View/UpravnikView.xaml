@@ -1,0 +1,24 @@
+﻿<Window x:Class="Bolnica.View.UpravnikView" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.Model"
+        mc:Ignorable="d"
+        Title="UpravnikView" Height="450" Width="800"
+        Closing="Window_Closing">
+    <Grid>
+        <Button x:Name="RegistrujP" Content="Registruj prostoriju" Click="onClickRegistruj" Margin="82,165,549.6,208" RenderTransformOrigin="0.496,0.59"></Button>
+        <Button x:Name="RegistrujI" Content="Registruj inventar" Click="onClickRegInventar" Margin="82,246,549.6,127" RenderTransformOrigin="0.496,0.59"></Button>
+        <Button x:Name="PregledP" Content="Pregled prostorija" Click="onClickPregled" Margin="305,165,305,208"></Button>
+        <Button x:Name="PregledI" Content="Pregled inventara" Click="onClickPregledInventara" Margin="305,246,304.6,127"></Button>
+        <Button x:Name="ObrisiP" Content="Obrisi prostoriju" Click="onClickObrisi" Margin="526,165,82,208"></Button>
+        <Button x:Name="ObrisiI" Content="Obrisi inventar" Click="onClickObrisiInventar" Margin="526,246,81.6,127"></Button>
+        <Button x:Name="premestiDI" Content="Premesti Inventar" Click="onClickPremestiInventar" Margin="305,327,302.6,46"></Button>
+        <Button x:Name="RegistrujLek" Content="Registruj Lek" Click="onClickRegistrujLek" Margin="82,80,549.6,293"></Button>
+        <Button x:Name="PregledLekova" Content="Pregled Lekova" Click="onClickPregledLekova" Margin="305,80,304.6,293"></Button>
+        <Button x:Name="ObrisiLek" Content="Obrisi Lek" Click="onClickObrisiLek" Margin="526,80,83.6,293"></Button>
+        <Button x:Name="PretragaInventara" Content="Pretraga Inventara" Click="onClickPretragaInventara" Margin="528,327,81.6,46"></Button>
+
+    </Grid>
+</Window>

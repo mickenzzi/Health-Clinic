@@ -1,0 +1,28 @@
+﻿<Window x:Class="Bolnica.View.KreiranjeInventara" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        Title="KreiranjeInventara" Height="450" Width="800">
+    <Grid>
+        
+        <TextBox x:Name="kolicina" Margin="343,153,311,231"></TextBox>
+        <TextBox x:Name="brojSobe" Margin="343,203,311,181"></TextBox>
+        <ComboBox Name="tipInventara" Margin="343,93,311.6,297">
+            <ComboBoxItem Content="Krevet"></ComboBoxItem>
+            <ComboBoxItem Content="Operacioni sto"></ComboBoxItem>
+            <ComboBoxItem Content="Defibrilator"></ComboBoxItem>
+            <ComboBoxItem Content="AparatZaAnesteziju"></ComboBoxItem>
+            <ComboBoxItem Content="Sterilizator"></ComboBoxItem>
+            <ComboBoxItem Content="MasinaZaEKG"></ComboBoxItem>
+        </ComboBox>
+        <Label Content="Tip Inventara" Margin="214,95,484.6,272"></Label>
+        <Label Content="Kolicina" Margin="214,153,484.6,212"></Label>
+        <Label Content="Broj Sobe" Margin="214,213,484.6,157"></Label>
+
+        <Button x:Name="Potvrdi" Content="Potvrdi" Click="onClickPotvrdi" Margin="232,322,466.6,66"></Button>
+        <Button x:Name="Odustani" Content="Odustani" Click="onClickOdustani" Margin="385,322,311.6,66"></Button>
+    </Grid>
+</Window>

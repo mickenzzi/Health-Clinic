@@ -1,0 +1,1912 @@
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\App.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\PacijentView.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\PacijentView.baml
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\ZakazivanjePacijent.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\ZakazivanjePacijent.baml
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\PregledZakazanihPacijent.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\PregledZakazanihPacijent.baml
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\OtkaziPacijent.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\OtkaziPacijent.baml
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\KreiranjeProstorije.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\UpravnikView.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\KreiranjeProstorije.baml
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\UpravnikView.baml
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\PregledProstorija.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\PregledProstorija.baml
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\ObrisiProstoriju.g.cs
+C:\Users\sibin\Desktop\sims_tim27\Bolnica\obj\Debug\Model\ObrisiProstoriju.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\bin\Debug\Bolnica.exe.config
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\bin\Debug\Bolnica.exe
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\bin\Debug\Bolnica.pdb
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\AzuriranjePacijenata.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\GuestNalog.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\KreiranjeProstorije.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\ObicanNalog.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\ObrisiProstoriju.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\OtkaziPacijent.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\PacijentView.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\PregledProstorija.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\PregledZakazanihPacijent.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\PrikazPacijenata.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\SekretarView.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\UpravnikView.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\ZakazivanjePacijent.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\App.g.cs
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\KreiranjeProstorije.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\ObrisiProstoriju.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\OtkaziPacijent.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\PacijentView.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\PregledProstorija.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\PregledZakazanihPacijent.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\UpravnikView.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\ZakazivanjePacijent.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\AzuriranjePacijenata.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\GuestNalog.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\ObicanNalog.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\PrikazPacijenata.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Model\SekretarView.baml
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica.g.resources
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica.exe
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica.pdb
+C:\Users\Nikola\Downloads\finalnaVerzija\finalnaVerzija\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\sibin\sims_tim27\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\sibin\sims_tim27\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\sibin\sims_tim27\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\AzurirajPrikaz.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\AzuriranjePacijenata.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\GuestNalog.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\KreiranjeProstorije.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\ObicanNalog.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\ObrisiProstoriju.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\OtkaziPacijent.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\PacijentView.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\PregledProstorija.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\PregledZakazanihPacijent.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\PrikazPacijenata.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\SekretarView.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\UpravnikView.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\ZakazivanjePacijent.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\App.g.cs
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\AzurirajPrikaz.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\AzuriranjePacijenata.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\GuestNalog.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\KreiranjeProstorije.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\ObicanNalog.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\ObrisiProstoriju.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\OtkaziPacijent.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\PacijentView.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\PregledProstorija.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\PregledZakazanihPacijent.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\PrikazPacijenata.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\SekretarView.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\UpravnikView.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Model\ZakazivanjePacijent.baml
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\sibin\sims_tim27\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\Repo6\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\vlada\Desktop\Repo6\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\Repo6\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\AzurirajPrikaz.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\AzuriranjePacijenata.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\GuestNalog.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\KreiranjeProstorije.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\ObicanNalog.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\ObrisiProstoriju.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\OtkaziPacijent.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PacijentView.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PregledProstorija.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PregledZakazanihPacijent.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PrikazPacijenata.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\SekretarView.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\UpravnikView.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\ZakazivanjePacijent.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\App.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\AzurirajPrikaz.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\AzuriranjePacijenata.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\GuestNalog.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\KreiranjeProstorije.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\ObicanNalog.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\ObrisiProstoriju.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\OtkaziPacijent.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PacijentView.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PregledProstorija.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PregledZakazanihPacijent.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PrikazPacijenata.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\SekretarView.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\UpravnikView.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\ZakazivanjePacijent.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\LekarView.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\OtkazivanjeLekar.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PregledZakazanihLekar.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\ZakazivanjeLekar.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\IzmenaTermina.g.cs
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\LekarView.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\OtkazivanjeLekar.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\PregledZakazanihLekar.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\ZakazivanjeLekar.baml
+C:\Users\vlada\Desktop\Repo6\Bolnica\obj\Debug\Model\IzmenaTermina.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\LekarView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\SekretarView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\AlergijaView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\AzurirajPrikaz.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\DodajAlergiju.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\GuestNalog.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\KomunikacijaView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ObicanNalog.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PomeranjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PredZakazivanje.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PrikazPacijenata.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\RegistracijaView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\StatistikaView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\TerminView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeGuest.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeObican.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\IzmenaTermina.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjeLekar.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihLekar.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeLekar.g.cs
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\LekarView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\SekretarView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\AlergijaView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\AzurirajPrikaz.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\DodajAlergiju.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\GuestNalog.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\KomunikacijaView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ObicanNalog.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjePregleda.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PomeranjeOperacije.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PomeranjePregleda.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PredZakazivanje.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PrikazPacijenata.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\RegistracijaView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\StatistikaView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\TerminView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeGuest.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeObican.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePregleda.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\IzmenaTermina.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjeLekar.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihLekar.baml
+C:\Users\Nikola\Desktop\sims-valja\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeLekar.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\IzmenaTermina.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\LekarView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjeLekar.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihLekar.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\SekretarView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AlergijaView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzurirajPrikaz.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\DodajAlergiju.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\GuestNalog.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\KomunikacijaView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ObicanNalog.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjeOperacije.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjePregleda.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PomeranjeOperacije.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PomeranjePregleda.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PredZakazivanje.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PrikazPacijenata.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\RegistracijaView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\StatistikaView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\TerminView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeGuest.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeLekar.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeObican.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeOperacije.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePregleda.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\App.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\IzmenaTermina.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\LekarView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjeLekar.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihLekar.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\SekretarView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AlergijaView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzurirajPrikaz.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\DodajAlergiju.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\GuestNalog.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\KomunikacijaView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ObicanNalog.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjeOperacije.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkazivanjePregleda.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PomeranjeOperacije.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PomeranjePregleda.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PredZakazivanje.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PrikazPacijenata.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\RegistracijaView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\StatistikaView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\TerminView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeGuest.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeLekar.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeObican.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeOperacije.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePregleda.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\dejan\Desktop\sims_tim27\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\IzmenaTermina.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\LekarView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\OtkazivanjeLekar.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PregledZakazanihLekar.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\SekretarView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AlergijaView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AzurirajPrikaz.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\DodajAlergiju.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\GuestNalog.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\KomunikacijaView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ObicanNalog.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\OtkazivanjeOperacije.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\OtkazivanjePregleda.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PomeranjeOperacije.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PomeranjePregleda.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PredZakazivanje.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PrikazPacijenata.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\RegistracijaView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\StatistikaView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\TerminView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjeGuest.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjeLekar.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjeObican.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjeOperacije.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjePregleda.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\App.g.cs
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\IzmenaTermina.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\LekarView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\OtkazivanjeLekar.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PregledZakazanihLekar.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\SekretarView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AlergijaView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AzurirajPrikaz.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\DodajAlergiju.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\GuestNalog.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\KomunikacijaView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ObicanNalog.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\OtkazivanjeOperacije.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\OtkazivanjePregleda.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PomeranjeOperacije.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PomeranjePregleda.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PredZakazivanje.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PrikazPacijenata.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\RegistracijaView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\StatistikaView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\TerminView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjeGuest.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjeLekar.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjeObican.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjeOperacije.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjePregleda.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\dejan\Desktop\MiloradBolnica\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AnamnezaPacijenta.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\IzdavanjeRecepta.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\IzmeniTermin.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\KartonPacijenta.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\LekarView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PrikazTermina.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\SekretarView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AlergijaView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AzurirajPrikaz.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\DodajAlergiju.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\GuestNalog.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\KomunikacijaView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ObicanNalog.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\OtkazivanjeOperacije.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\OtkazivanjePregleda.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PomeranjeOperacije.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PomeranjePregleda.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PredZakazivanje.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PrikazPacijenata.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\RegistracijaView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\StatistikaView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\TerminView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjeGuest.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjeObican.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjeOperacije.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjePregleda.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\App.g.cs
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AnamnezaPacijenta.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\IzdavanjeRecepta.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\IzmeniTermin.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\KartonPacijenta.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\LekarView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PrikazTermina.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\SekretarView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AlergijaView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AzurirajPrikaz.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\DodajAlergiju.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\GuestNalog.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\KomunikacijaView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ObicanNalog.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\OtkazivanjeOperacije.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\OtkazivanjePregleda.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PomeranjeOperacije.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PomeranjePregleda.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PredZakazivanje.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PrikazPacijenata.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\RegistracijaView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\StatistikaView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\TerminView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjeGuest.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjeObican.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjeOperacije.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjePregleda.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\vlada\Desktop\BolnicaKT3\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AnamnezaPacijenta.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\DodavanjeObavestenjeView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\HitanPregled.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\HitnoPomeranjeOperacija.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\HitnoPomeranjePregleda.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\IzdavanjeRecepta.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\IzmenaObavestenja.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\IzmeniTermin.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\KartonPacijenta.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\LekarView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ObavestenjaView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PrikazTermina.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\SekretarObavestenja.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\SekretarView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AlergijaView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AzurirajPrikaz.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\DodajAlergiju.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\GuestNalog.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\KomunikacijaView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ObicanNalog.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\OtkazivanjeOperacije.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\OtkazivanjePregleda.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PomeranjeOperacije.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PomeranjePregleda.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PredZakazivanje.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PrikazPacijenata.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\RegistracijaView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\StatistikaView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\TerminView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjeGuest.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjeObican.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjeOperacije.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjePregleda.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\App.g.cs
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AnamnezaPacijenta.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\DodavanjeObavestenjeView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\HitanPregled.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\HitnoPomeranjeOperacija.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\HitnoPomeranjePregleda.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\IzdavanjeRecepta.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\IzmenaObavestenja.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\IzmeniTermin.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\KartonPacijenta.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\LekarView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ObavestenjaView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PrikazTermina.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\SekretarObavestenja.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\SekretarView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AlergijaView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AzurirajPrikaz.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\DodajAlergiju.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\GuestNalog.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\KomunikacijaView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ObicanNalog.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\OtkazivanjeOperacije.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\OtkazivanjePregleda.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PomeranjeOperacije.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PomeranjePregleda.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PredZakazivanje.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PrikazPacijenata.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\RegistracijaView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\StatistikaView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\TerminView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjeGuest.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjeObican.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjeOperacije.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjePregleda.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\Bolnica M\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\MainWindow.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AnamnezaPacijenta.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\DodavanjeObavestenjeView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\HitanPregled.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\HitnoPomeranjeOperacija.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\HitnoPomeranjePregleda.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\IstorijaTerminaPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\IzdavanjeRecepta.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\IzmenaObavestenja.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\IzmeniTermin.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KartonPacijenta.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\LekarView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ObavestenjaView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OcenjivanjePacijent.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PrikazTermina.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\SekretarObavestenja.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\SekretarView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AlergijaView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzurirajPrikaz.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\DodajAlergiju.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\GuestNalog.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KomunikacijaView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ObicanNalog.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OtkazivanjeOperacije.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OtkazivanjePregleda.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PomeranjeOperacije.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PomeranjePregleda.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PredZakazivanje.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PrikazPacijenata.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\RegistracijaView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\StatistikaView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\TerminView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjeGuest.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjeObican.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjeOperacije.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjePregleda.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\App.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica.exe
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica.pdb
+C:\Users\dejan\Desktop\VladimirBolnica\bin\Debug\Bolnica.exe.config
+C:\Users\dejan\Desktop\VladimirBolnica\bin\Debug\Bolnica.exe
+C:\Users\dejan\Desktop\VladimirBolnica\bin\Debug\Bolnica.pdb
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\MainWindow.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AnamnezaPacijenta.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\DodavanjeObavestenjeView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\HitanPregled.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\HitnoPomeranjeOperacija.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\HitnoPomeranjePregleda.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\IzdavanjeRecepta.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\IzmenaObavestenja.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\IzmeniTermin.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KartonPacijenta.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\LekarView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ObavestenjaView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PrikazTermina.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\SekretarObavestenja.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\SekretarView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AlergijaView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzurirajPrikaz.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\DodajAlergiju.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\GuestNalog.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KomunikacijaView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ObicanNalog.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OtkazivanjeOperacije.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OtkazivanjePregleda.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PomeranjeOperacije.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PomeranjePregleda.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PredZakazivanje.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PrikazPacijenata.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\RegistracijaView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\StatistikaView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\TerminView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjeGuest.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjeObican.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjeOperacije.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjePregleda.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PacijentView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\IstorijaTerminaPacijent.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\OcenjivanjePacijent.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica.g.resources
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzuriranjeLeka.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\BrisanjeLeka.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KreiranjeLeka.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PregledLekova.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PretragaInventara.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\AzuriranjeLeka.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\BrisanjeLeka.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\KreiranjeLeka.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PregledLekova.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\PretragaInventara.baml
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjeRenoviranja.g.cs
+C:\Users\dejan\Desktop\VladimirBolnica\obj\Debug\View\ZakazivanjeRenoviranja.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AnamnezaPacijenta.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeLeka.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\BrisanjeLeka.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\DodavanjeObavestenjeView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\HitanPregled.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\HitnoPomeranjeOperacija.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\HitnoPomeranjePregleda.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\IzdavanjeRecepta.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\IzmenaObavestenja.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\IzmeniTermin.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KartonPacijenta.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KreiranjeLeka.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\LekarView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ObavestenjaView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OcenjivanjePacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PregledLekova.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PretragaInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PrikazTermina.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\SekretarObavestenja.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\SekretarView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AlergijaView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzurirajPrikaz.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\DodajAlergiju.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\GuestNalog.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KomunikacijaView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ObicanNalog.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OtkazivanjeOperacije.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OtkazivanjePregleda.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PomeranjeOperacije.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PomeranjePregleda.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PredZakazivanje.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PrikazPacijenata.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\RegistracijaView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\StatistikaView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\TerminView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjeGuest.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjeObican.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjeOperacije.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjePregleda.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\App.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AnamnezaPacijenta.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeLeka.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\BrisanjeLeka.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\DodavanjeObavestenjeView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\HitanPregled.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\HitnoPomeranjeOperacija.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\HitnoPomeranjePregleda.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\IzdavanjeRecepta.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\IzmenaObavestenja.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\IzmeniTermin.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KartonPacijenta.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KreiranjeLeka.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\LekarView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ObavestenjaView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OcenjivanjePacijent.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PregledLekova.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PretragaInventara.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PrikazTermina.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\SekretarObavestenja.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\SekretarView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AlergijaView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzurirajPrikaz.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\DodajAlergiju.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\GuestNalog.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KomunikacijaView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ObicanNalog.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OtkazivanjeOperacije.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OtkazivanjePregleda.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PomeranjeOperacije.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PomeranjePregleda.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PredZakazivanje.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PrikazPacijenata.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\RegistracijaView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\StatistikaView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\TerminView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjeGuest.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjeObican.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjeOperacije.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjePregleda.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PrikazLekova.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\PrikazLekova.baml
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeLekaLekar.g.cs
+C:\Users\vlada\Desktop\Bolnica Final\Bolnica\obj\Debug\View\AzuriranjeLekaLekar.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeLeka.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\BrisanjeLeka.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\KreiranjeLeka.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\OcenjivanjePacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledLekova.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PretragaInventara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\App.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeLeka.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\BrisanjeLeka.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\KreiranjeLeka.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\OcenjivanjePacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledLekova.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PretragaInventara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeLeka.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\BrisanjeLeka.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeLeka.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\OcenjivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledLekova.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PretragaInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\AzuriranjeLeka.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\BrisanjeLeka.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeLeka.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\OcenjivanjePacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledLekova.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PretragaInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AlergijaView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AnamnezaPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzurirajPrikaz.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeLeka.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeLekaLekar.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\BrisanjeLeka.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\DodajAlergiju.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\DodavanjeLekara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\DodavanjeObavestenjeView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\GuestNalog.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\HitnoPomeranjeOperacija.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\HitnoPomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\HospitalizacijaPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzmenaLekara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzmenaObavestenja.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzmeniKorisnika.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KartonPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KomunikacijaView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\LekarProzor.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ObavestenjaView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ObicanNalog.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzdavanjeRecepta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzmeniTermin.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KreiranjeLeka.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\LekarView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OcenjivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pageAnamnezaPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pageKartonPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pageLekarView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pagePrikazLekova.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pagePrikazTermina.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PregledLekova.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PretragaInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PrikazLekara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PrikazLekova.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PrikazTermina.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\produziHospitalizaciju.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ProfilKorisnika.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\RegistracijaKorisnika.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\SekretarObavestenja.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\SekretarView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OtkazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OtkazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PomeranjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PredZakazivanje.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PrikazPacijenata.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\RegistracijaView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\StatistikaView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\TerminView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjeGuest.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjeObican.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AlergijaView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AnamnezaPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzurirajPrikaz.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeLeka.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeLekaLekar.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\BrisanjeLeka.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\DodajAlergiju.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\DodavanjeLekara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\DodavanjeObavestenjeView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\GuestNalog.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\HitnoPomeranjeOperacija.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\HitnoPomeranjePregleda.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzmenaLekara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzmenaObavestenja.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzmeniKorisnika.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KartonPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KomunikacijaView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\LekarProzor.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ObavestenjaView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ObicanNalog.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzdavanjeRecepta.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\IzmeniTermin.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KreiranjeLeka.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\LekarView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OcenjivanjePacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PregledLekova.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PretragaInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PrikazLekara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PrikazLekova.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PrikazTermina.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ProfilKorisnika.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\RegistracijaKorisnika.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\SekretarObavestenja.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\SekretarView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OtkazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OtkazivanjePregleda.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PomeranjeOperacije.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PomeranjePregleda.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PredZakazivanje.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PrikazPacijenata.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\RegistracijaView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\StatistikaView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\TerminView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjeGuest.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjeObican.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjePregleda.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\HospitalizacijaPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pageAnamnezaPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pageKartonPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pageLekarView.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pagePrikazLekova.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\pagesLekar\pagePrikazTermina.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\View\produziHospitalizaciju.baml
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\sims_tim27-valja\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageAnamnezaPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageKartonPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageLekarView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pagePrikazLekova.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pagePrikazTermina.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageAnamnezaPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageKartonPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageLekarView.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pagePrikazLekova.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pagePrikazTermina.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageAnamnezaPacijenta.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageKartonPacijenta.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageLekarView.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pagePrikazLekova.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pagePrikazTermina.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowAzuriranjeLeka.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\LekarView.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowProduziHospitalizaciju.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowAzuriranjeLeka.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\LekarView.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageAnamnezaPacijenta.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageKartonPacijenta.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pageLekarView.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pagePrikazLekova.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\pagePrikazTermina.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowProduziHospitalizaciju.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowHospitalizacijaPacijenta.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowIzdavanjeRecepta.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowIzmeniTermin.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowHospitalizacijaPacijenta.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowIzdavanjeRecepta.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\windowIzmeniTermin.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\LekarProzor.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PacijentProzor.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazLekara.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\SekretarView.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\TerminProzor.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\LekarProzor.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PacijentProzor.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazLekara.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\SekretarView.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\TerminProzor.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\AzuriranjeLeka.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowAzuriranjeLeka.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\BrisanjeLeka.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\KreiranjeLeka.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\LekarView.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\OcenjivanjePacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PageAnamnezaPacijenta.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PageKartonPacijenta.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PageLekarView.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PagePrikazLekova.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PagePrikazTermina.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowHospitalizacijaPacijenta.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowIzdavanjeRecepta.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowIzmeniTermin.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowProduziHospitalizaciju.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\LekarProzor.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PacijentProzor.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazLekara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\SekretarView.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\TerminProzor.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledLekova.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledZdravstvenogKartonaPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PretragaInventara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PrikazTerapijePacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\App.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\AzuriranjeLeka.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowAzuriranjeLeka.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\BrisanjeLeka.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\KreiranjeLeka.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\LekarView.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\OcenjivanjePacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PageAnamnezaPacijenta.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PageKartonPacijenta.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PageLekarView.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PagePrikazLekova.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\PagePrikazTermina.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowHospitalizacijaPacijenta.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowIzdavanjeRecepta.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowIzmeniTermin.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesLekar\WindowProduziHospitalizaciju.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\LekarProzor.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PacijentProzor.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazLekara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\SekretarView.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\TerminProzor.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledLekova.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PretragaInventara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PregledZdravstvenogKartonaPacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PrikazTerapijePacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\BeleskePacijent.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\BeleskePacijent.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PrikazOdabraneBeleske.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\PrikazOdabraneBeleske.baml
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\KreiranjeBeleske.g.cs
+C:\Users\dejan\Desktop\VladimirovaBolnica\Bolnica\obj\Debug\View\KreiranjeBeleske.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\BeleskePacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\KreiranjeBeleske.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledZdravstvenogKartonaPacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PrikazOdabraneBeleske.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PrikazTerapijePacijent.g.cs
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\BeleskePacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\KreiranjeBeleske.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PregledZdravstvenogKartonaPacijent.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PrikazOdabraneBeleske.baml
+C:\Users\vlada\Desktop\Faks\SIMS\sims_tim27\Bolnica\obj\Debug\View\PrikazTerapijePacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\BeleskePacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeBeleske.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowAzuriranjeLeka.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\LekarView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowHospitalizacijaPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowIzdavanjeRecepta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowIzmeniTermin.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowProduziHospitalizaciju.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\LekarProzor.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PacijentProzor.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazLekara.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\SekretarView.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\TerminProzor.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledZdravstvenogKartonaPacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PrikazOdabraneBeleske.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PrikazTerapijePacijent.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\BeleskePacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\KreiranjeBeleske.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowAzuriranjeLeka.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\LekarView.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowHospitalizacijaPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowIzdavanjeRecepta.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowIzmeniTermin.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesLekar\WindowProduziHospitalizaciju.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\LekarProzor.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PacijentProzor.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazLekara.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\SekretarView.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\TerminProzor.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PregledZdravstvenogKartonaPacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PrikazOdabraneBeleske.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\PrikazTerapijePacijent.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\Klinika.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\Kontakt.g.cs
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\Klinika.baml
+C:\Users\Nikola\Desktop\sims_tim27\Bolnica\obj\Debug\View\pagesSekretar\Views\Kontakt.baml
+C:\Users\Nikola\Desktop\Bolnica\bin\Debug\Bolnica.exe.config
+C:\Users\Nikola\Desktop\Bolnica\bin\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\Bolnica\bin\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\AzuriranjeLeka.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\BeleskePacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\KreiranjeBeleske.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowAzuriranjeLeka.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\BrisanjeLeka.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\KreiranjeLeka.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\LekarView.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\OcenjivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PageAnamnezaPacijenta.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PageKartonPacijenta.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PageLekarView.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PagePrikazLekova.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PagePrikazTermina.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowHospitalizacijaPacijenta.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowIzdavanjeRecepta.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowIzmeniTermin.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowProduziHospitalizaciju.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\Klinika.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\Kontakt.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\LekarProzor.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PacijentProzor.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazLekara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\SekretarView.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\TerminProzor.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledLekova.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledZdravstvenogKartonaPacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PretragaInventara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PacijentView.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledInventara.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PrikazOdabraneBeleske.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PrikazTerapijePacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\UpravnikView.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\AzuriranjeLeka.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\BeleskePacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\KreiranjeBeleske.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowAzuriranjeLeka.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\BrisanjeLeka.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\IstorijaTerminaPacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\KreiranjeLeka.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\LekarView.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\OcenjivanjeBolnicePacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\OcenjivanjePacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PageAnamnezaPacijenta.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PageKartonPacijenta.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PageLekarView.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PagePrikazLekova.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\PagePrikazTermina.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowHospitalizacijaPacijenta.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowIzdavanjeRecepta.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowIzmeniTermin.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesLekar\WindowProduziHospitalizaciju.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\Klinika.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\Kontakt.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\LekarProzor.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PacijentProzor.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazLekara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\SekretarView.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\TerminProzor.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledLekova.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledZdravstvenogKartonaPacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PretragaInventara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PacijentView.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledInventara.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledProstorija.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PrikazOdabraneBeleske.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\PrikazTerapijePacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\UpravnikView.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\View\ZakazivanjeRenoviranja.baml
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica.g.resources
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\Bolnica\obj\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\MainWindow.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\AzuriranjeInventara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\AzuriranjeLeka.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\BeleskePacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\KreiranjeBeleske.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowAzuriranjeLeka.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\BrisanjeInventara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\BrisanjeLeka.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\IstorijaTerminaPacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\KreiranjeLeka.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\LekarView.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\OcenjivanjeBolnicePacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\OcenjivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PageAnamnezaPacijenta.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PageKartonPacijenta.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PageLekarView.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PagePrikazLekova.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PagePrikazTermina.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowHospitalizacijaPacijenta.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowIzdavanjeRecepta.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowIzmeniTermin.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowProduziHospitalizaciju.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\Klinika.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\Kontakt.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\LekarProzor.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PacijentProzor.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PrikazLekara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\SekretarView.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\TerminProzor.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledLekova.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledZdravstvenogKartonaPacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PremestanjeInventara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PretragaInventara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PretragaTerminaPacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\AzuriranjeSobe.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\AzuriranjeTermina.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\KreiranjeInventara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\KreiranjeProstorije.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\ObrisiProstoriju.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\OtkaziPacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PacijentView.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledInventara.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledProstorija.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledZakazanihPacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PrikazOdabraneBeleske.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PrikazTerapijePacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\UpravnikView.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\ZakazivanjePacijent.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\ZakazivanjeRenoviranja.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica_MarkupCompile.cache
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica_MarkupCompile.lref
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\BolnicaDobro\bin\Debug\Bolnica.exe.config
+C:\Users\Nikola\Desktop\BolnicaDobro\bin\Debug\Bolnica.exe
+C:\Users\Nikola\Desktop\BolnicaDobro\bin\Debug\Bolnica.pdb
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\MainWindow.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\AzuriranjeInventara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\AzuriranjeLeka.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\BeleskePacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\KreiranjeBeleske.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowAzuriranjeLeka.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\BrisanjeInventara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\BrisanjeLeka.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\IstorijaTerminaPacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\KreiranjeLeka.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\LekarView.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\OcenjivanjeBolnicePacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\OcenjivanjePacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PageAnamnezaPacijenta.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PageKartonPacijenta.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PageLekarView.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PagePrikazLekova.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\PagePrikazTermina.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowHospitalizacijaPacijenta.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowIzdavanjeRecepta.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowIzmeniTermin.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesLekar\WindowProduziHospitalizaciju.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\DodavanjeAlergije.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\DodavanjeLekara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\DodavanjeObavestenja.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\GuestZakazivanje.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjeOperacija.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\HitnoPomeranjePregleda.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaAlergije.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaKorisnika.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaLekara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaObavestenja.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\IzmenaPacijenta.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\Klinika.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\KlinikaObavestenja.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\Kontakt.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\KreiranjeGuestNaloga.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\KreiranjeObicnogNaloga.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\LekarProzor.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\NormalnoZakazivanje.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\OtkazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\OtkazivanjePregleda.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PacijentProzor.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PomeranjeOperacije.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PomeranjePregleda.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PredZakazivanje.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PrikazLekara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PrikazObavestenja.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\PrikazPacijenata.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\ProfilKorisnika.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\RegistracijaKorisnika.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\SekretarView.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\TerminProzor.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\ZakazivanjeOperacije.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\ZakazivanjePregleda.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledLekova.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledZdravstvenogKartonaPacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PremestanjeInventara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PretragaInventara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PretragaTerminaPacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\AzuriranjeSobe.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\AzuriranjeTermina.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\KreiranjeInventara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\KreiranjeProstorije.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\ObrisiProstoriju.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\OtkaziPacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PacijentView.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledInventara.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledProstorija.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PregledZakazanihPacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PrikazOdabraneBeleske.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\PrikazTerapijePacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\UpravnikView.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\ZakazivanjePacijent.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\ZakazivanjeRenoviranja.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica.g.resources
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica.Properties.Resources.resources
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica.csproj.CopyComplete
+C:\Users\Nikola\Desktop\BolnicaDobro\bin\Debug\WPFToolkit.pdb
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\Bolnica.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\StatistikaView.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\StatistikaView.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\DodavanjeBugova.g.cs
+C:\Users\Nikola\Desktop\BolnicaDobro\obj\Debug\View\pagesSekretar\Views\DodavanjeBugova.baml
+C:\Users\Nikola\Desktop\BolnicaDobro\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Nikola\Desktop\BolnicaDobro\bin\Debug\itextsharp.dll
+C:\Users\Nikola\Desktop\BolnicaDobro\bin\Debug\itextsharp.xml

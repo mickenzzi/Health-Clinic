@@ -1,0 +1,70 @@
+﻿<Page x:Class="Bolnica.View.pagesLekar.PageKartonPacijenta"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bolnica.View.pagesLekar"
+      mc:Ignorable="d" 
+      d:DesignHeight="651" d:DesignWidth="1114"
+      Title="pageKartonPacijenta">
+
+    <Grid Background="White" Margin="0,0,0,0">
+        <Grid Background="#FFEBCC6D" Margin="30,100,30,30">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="51*"/>
+                <RowDefinition Height="39*"/>
+                <RowDefinition Height="46*"/>
+                <RowDefinition Height="44*"/>
+                <RowDefinition Height="43*"/>
+                <RowDefinition Height="47*"/>
+                <RowDefinition Height="46*"/>
+                <RowDefinition Height="45*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="48*"/>
+                <RowDefinition Height="39*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="280*"/>
+                <ColumnDefinition Width="247*"/>
+                <ColumnDefinition Width="467*"/>
+                <ColumnDefinition Width="60*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="IdTermina" HorizontalAlignment="Left" Height="22" Margin="217,27,0,0" TextWrapping="Wrap" Text="" IsEnabled="False" VerticalAlignment="Top" Width="150" Visibility="Hidden" Grid.ColumnSpan="2" Grid.Row="1"/>
+            <Label Content="Ime:" Margin="100,7,133,0" VerticalAlignment="Top" FontSize="20" Grid.Row="1" Height="37"/>
+            <Label Content="Prezime:" Margin="100,2,95,0" VerticalAlignment="Top" FontSize="20" Grid.Row="2" Height="37"/>
+            <Label Content="JMBG:" Margin="100,7,115,0" VerticalAlignment="Top" FontSize="20" Grid.Row="3" Height="37"/>
+            <Label Content="Hitan slucaj:" Margin="100,5,64,0" VerticalAlignment="Top" FontSize="20" Grid.Row="4" Height="37"/>
+            <Label Content="Datum rodjenja:" Margin="100,3,29,0" VerticalAlignment="Top" FontSize="20" Grid.Row="5" Height="37"/>
+            <Label Content="Mesto stanovanja:" Margin="100,6,10,0" VerticalAlignment="Top" FontSize="20" Grid.Row="6" Height="37"/>
+            <Label Content="Telefon:" Margin="100,8,102,0" VerticalAlignment="Top" RenderTransformOrigin="-4.741,-2.331" FontSize="20" Grid.Row="9" Height="37"/>
+            <Label Content="Ulica i broj:" Margin="100,7,72,0" VerticalAlignment="Top" FontSize="20" Grid.Row="8" Height="37"/>
+            <Label Content="Pol:" Margin="100,7,139,0" VerticalAlignment="Top" FontSize="20" Grid.Row="7" Height="37"/>
+            <Label Content="Bracni status:" Margin="100,6,54,0" VerticalAlignment="Top" FontSize="20" Grid.Row="10" Height="37"/>
+
+            <TextBox x:Name="ImeP" Margin="19,11,79,0" TextWrapping="Wrap" Text="{Binding ImePacijenta}" IsEnabled="False" FontSize="20" Grid.Column="1" Grid.Row="1" Height="30" VerticalAlignment="Top"/>
+            <TextBox x:Name="PrezimeP" Margin="19,4,79,0" TextWrapping="Wrap" Text="{Binding PrezimePacijenta}" IsEnabled="False" FontSize="20" Grid.Column="1" Grid.Row="2" Height="30" VerticalAlignment="Top"/>
+            <TextBox x:Name="JMBGP" Height="30" Margin="19,9,79,0" TextWrapping="Wrap" Text="{Binding JmbgPacijenta}" IsEnabled="False" VerticalAlignment="Top" FontSize="20" Grid.Column="1" Grid.Row="3"/>
+            <RadioButton x:Name="HitanP" Margin="19,17,213,0" IsEnabled="False" IsChecked="{Binding HitanSlucajCheck}" VerticalAlignment="Top" FontSize="30" Grid.Column="1" Grid.Row="4" Height="14"/>
+            <TextBox x:Name="DatumP" Height="30" Margin="19,5,79,0" TextWrapping="Wrap" Text="{Binding DatumRodjenjaPacijenta}" IsEnabled="False" VerticalAlignment="Top" FontSize="20" Grid.Column="1" Grid.Row="5"/>
+            <TextBox x:Name="MestoStanovanjaP" Height="30" Margin="19,8,79,0" TextWrapping="Wrap" Text="{Binding MestoStanovanjaPacijenta}" IsEnabled="False" VerticalAlignment="Top" FontSize="20" Grid.Column="1" Grid.Row="6"/>
+            <TextBox x:Name="PolP" Margin="19,9,79,0" TextWrapping="Wrap" Text="{Binding PolPacijentaP}" IsEnabled="False" FontSize="20" Grid.Column="1" Grid.Row="7" Height="30" VerticalAlignment="Top" />
+            <TextBox x:Name="UlicaIBrojP" Height="30" Margin="19,9,79,0" TextWrapping="Wrap" Text="{Binding UlicaPacijenta}" IsEnabled="False" VerticalAlignment="Top" FontSize="20" Grid.Column="1" Grid.Row="8"/>
+            <TextBox x:Name="TelefonP" Height="30" Margin="19,10,79,0" TextWrapping="Wrap" Text="{Binding TelefonPacijenta}" IsEnabled="False" VerticalAlignment="Top" FontSize="20" Grid.Column="1" Grid.Row="9"/>
+            <TextBox x:Name="BracniStatusP" Margin="19,10,79,0" TextWrapping="Wrap" Text="{Binding BracniStatusPacijentaP}" IsEnabled="False" FontSize="20" Height="28" VerticalAlignment="Top" Grid.Column="1" Grid.Row="10"/>
+            <Button Content="Zatvori karton" Command="{Binding ZatvoriKartonCommand}" Margin="0,0,36,10" Background="#FFE6DEDE" FontSize="20" Grid.Column="2" Height="34" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="162" Grid.Row="10"/>
+            <Label Content="Alergija" Margin="196,47,194,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" FontSize="20" Grid.Column="2" Grid.Row="1" Grid.RowSpan="2" Height="37" />
+            <Separator Height="20" Margin="127,38,126,0" VerticalAlignment="Top" FontSize="20" Background="Red" Grid.Column="2" Grid.Row="2" Grid.RowSpan="2"/>
+            <DataGrid x:Name="Alergije" Margin="35,25,36,13" FontSize="20" ItemsSource="{Binding Alergije}" AutoGenerateColumns="False" Grid.Column="2" Grid.Row="3" Grid.RowSpan="4">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Sifra alergije" Binding="{Binding SifraAlergije, Mode=OneWay}" Width="190*"/>
+                    <DataGridTextColumn Header="Alergen" Binding="{Binding Naziv, Mode=OneWay}" Width="190*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </Grid>
+
+        <Label Content="Karton" Margin="518,24,516,0" HorizontalContentAlignment="Center" VerticalAlignment="Top" FontSize="24"/>
+        <Separator Height="20" Margin="300,66,300.6,0" VerticalAlignment="Top" FontSize="20"/>
+    </Grid>
+</Page>

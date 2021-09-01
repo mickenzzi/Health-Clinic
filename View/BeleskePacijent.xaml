@@ -1,0 +1,23 @@
+﻿<Window x:Class="Bolnica.View.BeleskePacijent" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable=""
+        Title="Beleske" Height="576" Width="768"
+         WindowStyle="None">
+    <Grid>
+        <DataGrid HorizontalScrollBarVisibility="Disabled" CanUserResizeColumns="False" CanUserReorderColumns="False" BorderThickness="3" BorderBrush="Black" FontSize="25" AutoGenerateColumns="False" x:Name="Beleske" Margin="102,80,95,218">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Naziv beleske" Binding="{Binding NazivBeleske}" Width="240" />
+                <DataGridTextColumn Header="Vreme kreiranja" Binding="{Binding DatumKreiranjaBeleske}" Width="300" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="nazad" Content="Nazad" Click="onClickNazad" Margin="454,472,95,26" FontSize="25" BorderThickness="2"/>
+        <Button x:Name="prikazOdabraneBeleske" Content="Pogledaj detaljnije" Click="onClickPrikazOdabraneBeleske" Margin="102,472,448,26" FontSize="25" BorderThickness="2"/>
+        <Button x:Name="dodajBelesku" Content="Napravi belešku" Click="onClickNapraviBelesku" Margin="102,374,448,124" FontSize="25" BorderThickness="2"/>
+        <Button x:Name="obrisiBelesku" Content="Obrisi belešku" Click="onClickObrisiBelesku" Margin="454,374,95,124" FontSize="25" BorderThickness="2"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="Bolnica.View.PacijentView" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.Model"
+        mc:Ignorable="d"
+        Title="PacijentView" Height="450" Width="800"
+        Closing="exitApp">
+    <Grid>
+        <Button x:Name="Pretrazi" Content ="Pretrazi" Click ="onClickPretrazi" Margin="44,33,608.6,327"></Button>
+        <Button x:Name="Prikazi" Content ="Prikazi preglede" Click ="onClickPrikazi" Margin="305,33,347.6,327"></Button>
+        <Button x:Name="Otkazi" Content ="Otkazi pregled" Click ="onClickOtkazi" Margin="555,33,97.6,327"></Button>
+        <Button x:Name="IstorijaTermina" Content ="Istorija Termina" Click ="onClickIstorijaTermina" Margin="305,173,348,187"></Button>
+        <Button x:Name="OcenjivanjeBolnice" Content ="Ocenite bolnicu" Click ="onClickOcenjivanjeBolnicePacijent" Margin="555,173,98,187"></Button>
+        <Button x:Name="prikazZdravstvenogKartona" Content ="Prikaz zdravstvenog kartona" Click ="onClickPrikazKartona" Margin="56,173,597,187"></Button>
+        <Button x:Name="prikazListeBeleski" Content ="Moje beleške" Click ="onClickPrikazListeBeleski" Margin="305,302,348,58"></Button>
+    </Grid>
+</Window>

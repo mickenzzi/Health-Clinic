@@ -1,0 +1,24 @@
+﻿<Window x:Class="Bolnica.View.AzuriranjeTermina" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bolnica.View"
+        mc:Ignorable="d"
+        Title="AzuriranjeTermina" Height="450" Width="800">
+    <Grid>
+        <Label Margin="199,87,481.6,298">Datum pomeranja:</Label>
+        <Label Margin="199,145,481.6,240">Vreme pomeranja:</Label>
+        <Label Margin="381,145,379.6,240">h</Label>
+        <Label Margin="480,145,274.6,240">min</Label>
+        <DatePicker Name="DatumPomeranja" Margin="317,87,320.6,298">
+            <DatePicker.BlackoutDates>
+                <CalendarDateRange Start="1/1/2010" End="4/18/2020"/>
+            </DatePicker.BlackoutDates>
+        </DatePicker>
+        <TextBox x:Name="brojSati" Margin="317,145,422.6,248"></TextBox>
+        <TextBox x:Name="brojMinuta" Margin="419,145,320.6,248"></TextBox>
+        <Button Margin="296,206,422.6,179" x:Name ="Potvrdi" Content="Potvrdi" Click="onClickPotvrdi"></Button>
+        <Button Margin="419,206,299.6,179" x:Name ="Odustani" Content="Odustani" Click="onClickOdustani"></Button>
+    </Grid>
+</Window>

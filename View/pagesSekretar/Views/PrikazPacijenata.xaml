@@ -1,0 +1,69 @@
+﻿<Page x:Class="Bolnica.View.pagesSekretar.Views.PrikazPacijenata"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bolnica.View.pagesSekretar.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="580" d:DesignWidth="375"
+      Title="PrikazPacijenata">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="0"/>
+                <GradientStop Color="#FF346A72" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Canvas HorizontalAlignment="Left" Height="513" Margin="20,21,0,0" VerticalAlignment="Top" Width="334">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF283B5D" Offset="0"/>
+                    <GradientStop Color="#FFAAAEB4" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding SearchIme,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="158" Canvas.Left="152" Canvas.Top="53" BorderThickness="1,1,1,4"/>
+            <Label Content="Pretraga po imenu:" Canvas.Left="20" Canvas.Top="49" Width="130" FontSize="14" FontStyle="Italic" Foreground="White"/>
+            
+            <DataGrid x:Name="Pacijenti" IsReadOnly="True" CanUserAddRows="False" ItemsSource="{Binding Pacijenti}" SelectedItem="{Binding SelectedPacijent, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False" Width="295" HorizontalAlignment="Left" Height="211" Canvas.Left="21" Canvas.Top="106">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Ime" Binding="{Binding Ime}" Width="80"/>
+                    <DataGridTextColumn Header="Prezime" Binding="{Binding Prezime}" Width="80"/>
+                    <DataGridTextColumn Header="JMBG" Binding="{Binding Jmbg}" Width="60"/>
+                    <DataGridTextColumn Header="Hitan slucaj" Binding="{Binding HitanSlucaj}" Width="80"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button Content="Izmeni" Command="{Binding TransferToIzmeniPacijentaCommand}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="138" Height="25" Foreground="White" Canvas.Left="20" Canvas.Top="359">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FF65AA5A" Offset="0.003"/>
+                        <GradientStop Color="#FF588352" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Content="Obrisi" Command="{Binding ObrisiPacijentaCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="138" Height="25" Foreground="White" Canvas.Left="178" Canvas.Top="359">
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFF04141" Offset="0"/>
+                        <GradientStop Color="#FFBB5353" Offset="1"/>
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button Content="Termin" Command="{Binding TransferToTerminPacijentaCommand}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="220" Canvas.Left="56" Canvas.Top="416" Height="25"/>
+        </Canvas>
+        <Canvas HorizontalAlignment="Left" Height="40" Margin="0,540,0,0" VerticalAlignment="Top" Width="375">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA2B4BD" Offset="0"/>
+                    <GradientStop Color="#FFD0D8DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Button HorizontalAlignment="Left" Height="36" Command="{Binding HomeCommand}" VerticalAlignment="Top" Width="36" BorderBrush="{x:Null}" Canvas.Left="171" Canvas.Top="2" Background="{x:Null}">
+                <Image HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="33" Source="/Bolnica;component/View/images/homean.png"/>
+            </Button>
+            <Button Command="{Binding BackCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="36" Height="36" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="117" Canvas.Top="3">
+                <Image HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="27" Source="/Bolnica;component/View/images/bckan.png" RenderTransformOrigin="1.056,0.552"/>
+            </Button>
+        </Canvas>
+    </Grid>
+</Page>

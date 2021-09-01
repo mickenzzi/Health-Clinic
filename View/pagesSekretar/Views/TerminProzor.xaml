@@ -1,0 +1,119 @@
+﻿<Page x:Class="Bolnica.View.pagesSekretar.Views.TerminProzor"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bolnica.View.pagesSekretar.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="580" d:DesignWidth="375"
+      Title="TerminProzor">
+
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFE1E8EC" Offset="0"/>
+                <GradientStop Color="#FFA49E9D" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Canvas HorizontalAlignment="Left" Height="545" Margin="23,26,0,0" VerticalAlignment="Top" Width="98" Background="#FFD61010"/>
+        <Canvas HorizontalAlignment="Left" Height="82" VerticalAlignment="Top" Width="352" Background="#FFB5C8D4" Margin="12,8,0,0">
+            <Label Content="Pacijent:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontStyle="Italic" Canvas.Left="36" Canvas.Top="28" RenderTransformOrigin="2.06,0.566"/>
+            <TextBox HorizontalAlignment="Left" x:Name="ImeP" Height="23" TextWrapping="Wrap" Text="{Binding Ime}" VerticalAlignment="Top" Width="120" BorderBrush="White" Canvas.Left="221" Canvas.Top="13"/>
+            <TextBox HorizontalAlignment="Left" x:Name="PrezimeP" Height="23" TextWrapping="Wrap" Text="{Binding Prezime}" VerticalAlignment="Top" Width="120" BorderBrush="White" Canvas.Left="221" Canvas.Top="48"/>
+            <Image HorizontalAlignment="Left" Height="68" VerticalAlignment="Top" Width="62" Source="/Bolnica;component/View/images/patient.png" Canvas.Left="137" Canvas.Top="11"/>
+        </Canvas>
+        <Canvas HorizontalAlignment="Left" Height="211" Margin="149,308,0,0" VerticalAlignment="Top" Width="212">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD0E5F3" Offset="0"/>
+                    <GradientStop Color="#FFF5EFEF" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Label Content="Operacija" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontStyle="Italic" Canvas.Left="63" FontWeight="Bold" Canvas.Top="-9" Foreground="#FF7E4636"/>
+            <Canvas HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="165" Canvas.Left="29" Canvas.Top="25">
+                <Canvas.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA89F9F" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Canvas.Background>
+                <Button Content="Hitna" Command="{Binding ZakaziHitnuOperacijuCommand}" Canvas.Left="49" Canvas.Top="29" Width="75" BorderThickness="4" BorderBrush="#FFF23422"/>
+                <Label Content="Zakazivanje hitne operacije" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="4"/>
+            </Canvas>
+            <Canvas HorizontalAlignment="Left" Height="58" VerticalAlignment="Top" Width="165" Canvas.Left="30" Canvas.Top="89">
+                <Canvas.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA89F9F" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Canvas.Background>
+                <Button Content="Zakazi" Command="{Binding ZakaziOperacijuCommand}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Canvas.Left="49" Canvas.Top="28" BorderThickness="4" BorderBrush="#FF4A8CDA"/>
+                <Label Content="Zakazivanje operacije" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="27" Canvas.Top="1"/>
+            </Canvas>
+            <Canvas HorizontalAlignment="Left" Height="57" VerticalAlignment="Top" Width="165" Canvas.Left="31" Canvas.Top="151">
+                <Canvas.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA89F9F" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Canvas.Background>
+                <Button Content="Otkazi" Command="{Binding OtkaziOperacijuCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Canvas.Left="47" Canvas.Top="27" BorderThickness="4"/>
+                <Label Content="Otkazivanje operacije" HorizontalAlignment="Left" Height="26" VerticalAlignment="Top" Canvas.Left="27" Canvas.Top="1"/>
+            </Canvas>
+        </Canvas>
+        <Canvas HorizontalAlignment="Left" Height="211" Margin="148,93,0,0" VerticalAlignment="Top" Width="212">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD0E5F3" Offset="0"/>
+                    <GradientStop Color="#FFF5EFEF" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Label Content="Pregled" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontStyle="Italic" Canvas.Left="66" FontWeight="Bold" Canvas.Top="-9" Foreground="#FF7E4636"/>
+            <Canvas Height="57" Canvas.Left="23" Canvas.Top="25" Width="165">
+                <Canvas.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA89F9F" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Canvas.Background>
+                <Label Content="Zakazivanje hitnog pregleda" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="2" Canvas.Top="1"/>
+                <Button Content="Zakazi" Command="{Binding ZakaziHitanPregledCommand}" Canvas.Left="47" Canvas.Top="27" Width="75" BorderThickness="4" BorderBrush="#FFF03422"/>
+            </Canvas>
+            <Canvas Height="56" Canvas.Left="24" Canvas.Top="85" Width="165">
+                <Canvas.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA89F9F" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Canvas.Background>
+                <Label Content="Zakazivanje pregleda" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="24" Canvas.Top="1"/>
+                <Button Content="Zakazi" Command="{Binding ZakaziPregledCommand}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Canvas.Left="45" Canvas.Top="26" BorderBrush="#FF4A8CDA" BorderThickness="4"/>
+            </Canvas>
+            <Canvas Height="57" Canvas.Left="25" Canvas.Top="145" Width="165">
+                <Canvas.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#FFA89F9F" Offset="0"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </Canvas.Background>
+                <Label Content="Otkazivanje pregleda" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="25" Canvas.Top="-1"/>
+                <Button Content="Otkazi" Command="{Binding OtkaziPregledCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Canvas.Left="48" Canvas.Top="26" BorderThickness="4"/>
+            </Canvas>
+        </Canvas>
+        <Canvas HorizontalAlignment="Left" Height="40" Margin="0,540,-2,0" VerticalAlignment="Top" Width="377">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA2B4BD" Offset="0"/>
+                    <GradientStop Color="#FFD0D8DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Button HorizontalAlignment="Left" Height="36" Command="{Binding HomeCommand}" VerticalAlignment="Top" Width="36" BorderBrush="{x:Null}" Canvas.Left="171" Canvas.Top="2" Background="{x:Null}">
+                <Image HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="33" Source="/Bolnica;component/View/images/homean.png"/>
+            </Button>
+            <Button Command="{Binding BackCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="36" Height="36" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="117" Canvas.Top="3">
+                <Image HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="27" Source="/Bolnica;component/View/images/bckan.png" RenderTransformOrigin="1.056,0.552"/>
+            </Button>
+        </Canvas>
+    </Grid>
+</Page>

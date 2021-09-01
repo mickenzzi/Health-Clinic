@@ -1,0 +1,35 @@
+﻿<Page x:Class="Bolnica.View.pagesSekretar.Views.DodavanjeObavestenja"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Bolnica.View.pagesSekretar.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="580" d:DesignWidth="375"
+      Title="DodavanjeObavestenja">
+    <Grid Background="White">
+        <Label Content="Unos podataka obavestenja" HorizontalAlignment="Left" Height="28" Margin="105,50,0,0" VerticalAlignment="Top" Width="185" FontSize="14" FontStyle="Italic"/>
+        <Separator HorizontalAlignment="Left" Height="39" Margin="35,64,0,0" VerticalAlignment="Top" Width="307" Background="Black"/>
+        <TextBox Text="{Binding PorukaText}" HorizontalAlignment="Left" Height="183" Margin="36,177,0,0" TextWrapping="Wrap" Name="Poruka" VerticalAlignment="Top" Width="311" RenderTransformOrigin="0.5,0.5"/>
+        <Label Content="Poruka:" HorizontalAlignment="Left" Height="23" Margin="34,145,0,0" VerticalAlignment="Top" Width="80"/>
+        <TextBlock HorizontalAlignment="Left" Height="35" Margin="42,361,0,0"  TextWrapping="Wrap" Text="{Binding CurrentObavestenje.ValidationErrors[Poruka]}"
+                               Foreground="Red" VerticalAlignment="Top" Width="230"/>
+
+        <Canvas HorizontalAlignment="Left" Height="40" Margin="0,540,0,0" VerticalAlignment="Top" Width="375">
+            <Canvas.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA2B4BD" Offset="0"/>
+                    <GradientStop Color="#FFD0D8DC" Offset="1"/>
+                </LinearGradientBrush>
+            </Canvas.Background>
+            <Button HorizontalAlignment="Left" Command="{Binding HomeCommand}" Height="36" VerticalAlignment="Top" Width="36" BorderBrush="{x:Null}" Canvas.Left="171" Canvas.Top="2" Background="{x:Null}">
+                <Image HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="33" Source="/Bolnica;component/View/images/homean.png"/>
+            </Button>
+            <Button Command="{Binding BackCommand}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="36" Height="36" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="117" Canvas.Top="3">
+                <Image HorizontalAlignment="Left" Height="28" VerticalAlignment="Top" Width="27" Source="/Bolnica;component/View/images/bckan.png" RenderTransformOrigin="1.056,0.552"/>
+            </Button>
+        </Canvas>
+        <Button Content="Potvrdi" Command="{Binding AddObavestenjeCommand}"  HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Height="25" Background="#FFAAAAAA" BorderBrush="Black" BorderThickness="1,1,1,4" Margin="151,459,0,0"/>
+
+    </Grid>
+</Page>

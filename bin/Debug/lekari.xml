@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<ArrayOfLekar xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Lekar>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <PocetakRadnogVremena>0001-01-01T08:00:00</PocetakRadnogVremena>
+    <KrajRadnogVremena>0001-01-01T17:00:00</KrajRadnogVremena>
+    <DatumPocetkaOdmora>2021-06-21T10:20:00</DatumPocetkaOdmora>
+    <DatumKrajaOdmora>2021-06-27T00:00:00</DatumKrajaOdmora>
+    <DatumRodjenja>1973-11-11T12:20:00</DatumRodjenja>
+    <MestoRodjenja>Bijeljina</MestoRodjenja>
+    <Specijalista>false</Specijalista>
+    <Id>121234</Id>
+    <Jmbg>1111973186876</Jmbg>
+    <Ime>Nikola</Ime>
+    <Prezime>Rosic</Prezime>
+  </Lekar>
+  <Lekar>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <PocetakRadnogVremena>0001-01-01T08:00:00</PocetakRadnogVremena>
+    <KrajRadnogVremena>0001-01-01T18:00:00</KrajRadnogVremena>
+    <DatumPocetkaOdmora>0001-01-01T00:00:00</DatumPocetkaOdmora>
+    <DatumKrajaOdmora>0001-01-01T00:00:00</DatumKrajaOdmora>
+    <DatumRodjenja>1993-12-12T00:00:00</DatumRodjenja>
+    <MestoRodjenja>Novi Sad</MestoRodjenja>
+    <Specijalista>false</Specijalista>
+    <Id>1405103956</Id>
+    <Jmbg>1212993186654</Jmbg>
+    <Ime>Ana</Ime>
+    <Prezime>Jovanovic</Prezime>
+  </Lekar>
+  <Lekar>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <PocetakRadnogVremena>0001-01-01T09:00:00</PocetakRadnogVremena>
+    <KrajRadnogVremena>0001-01-01T20:00:00</KrajRadnogVremena>
+    <DatumPocetkaOdmora>0001-01-01T00:00:00</DatumPocetkaOdmora>
+    <DatumKrajaOdmora>0001-01-01T00:00:00</DatumKrajaOdmora>
+    <DatumRodjenja>1966-11-11T00:00:00</DatumRodjenja>
+    <MestoRodjenja>Novi Sad</MestoRodjenja>
+    <Specijalista>true</Specijalista>
+    <Specijalizacija>Ortopedija</Specijalizacija>
+    <Id>542096552</Id>
+    <Jmbg>1111966187721</Jmbg>
+    <Ime>Miodrag</Ime>
+    <Prezime>Spasojevic</Prezime>
+  </Lekar>
+  <Lekar>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <PocetakRadnogVremena>0001-01-01T10:00:00</PocetakRadnogVremena>
+    <KrajRadnogVremena>0001-01-01T16:00:00</KrajRadnogVremena>
+    <DatumPocetkaOdmora>0001-01-01T00:00:00</DatumPocetkaOdmora>
+    <DatumKrajaOdmora>0001-01-01T00:00:00</DatumKrajaOdmora>
+    <DatumRodjenja>1987-09-09T00:00:00</DatumRodjenja>
+    <MestoRodjenja>Novi Sad</MestoRodjenja>
+    <Specijalista>true</Specijalista>
+    <Specijalizacija>Hirurgija</Specijalizacija>
+    <Id>276339584</Id>
+    <Jmbg>9998718213</Jmbg>
+    <Ime>Danijela</Ime>
+    <Prezime>Djukin</Prezime>
+  </Lekar>
+</ArrayOfLekar>

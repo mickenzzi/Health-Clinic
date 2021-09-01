@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfKorisnik xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Korisnik>
+    <Ime>Milorad</Ime>
+    <Prezime>Vulovic</Prezime>
+    <Jmbg>2212998180850</Jmbg>
+    <Email>micpfko@gmail.com</Email>
+    <Sifra>milorad123</Sifra>
+  </Korisnik>
+  <Korisnik>
+    <Ime />
+    <Prezime />
+    <Jmbg />
+    <Email>s</Email>
+    <Sifra />
+  </Korisnik>
+</ArrayOfKorisnik>

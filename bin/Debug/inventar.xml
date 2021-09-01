@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfInventar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Inventar>
+    <TipInventara>BolnickiKrevet</TipInventara>
+    <Kolicina>0</Kolicina>
+    <SifraSobe>818333377</SifraSobe>
+    <Sifra>1940233189</Sifra>
+    <RedniBrojUSobi>1</RedniBrojUSobi>
+    <JmbgPacijenta>0602000800058</JmbgPacijenta>
+    <Zauzet>true</Zauzet>
+  </Inventar>
+  <Inventar>
+    <TipInventara>BolnickiKrevet</TipInventara>
+    <Kolicina>0</Kolicina>
+    <SifraSobe>818333377</SifraSobe>
+    <Sifra>573573493</Sifra>
+    <RedniBrojUSobi>2</RedniBrojUSobi>
+    <Zauzet>false</Zauzet>
+  </Inventar>
+  <Inventar>
+    <TipInventara>BolnickiKrevet</TipInventara>
+    <Kolicina>0</Kolicina>
+    <SifraSobe>818333377</SifraSobe>
+    <Sifra>1481385204</Sifra>
+    <RedniBrojUSobi>3</RedniBrojUSobi>
+    <JmbgPacijenta>2212998180850</JmbgPacijenta>
+    <Zauzet>true</Zauzet>
+  </Inventar>
+</ArrayOfInventar>

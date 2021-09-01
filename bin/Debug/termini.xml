@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<ArrayOfTermin xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Termin>
+    <KrajTermina>0001-01-01T00:00:00</KrajTermina>
+    <Slobodan>false</Slobodan>
+    <Ocenjen>false</Ocenjen>
+    <SifraSobe>1253101816</SifraSobe>
+    <DatumVreme>2021-06-09T11:54:21.4395038+02:00</DatumVreme>
+    <Lekar>
+      <ValidationErrors />
+      <IsValid>true</IsValid>
+      <PocetakRadnogVremena>0001-01-01T08:00:00</PocetakRadnogVremena>
+      <KrajRadnogVremena>0001-01-01T17:00:00</KrajRadnogVremena>
+      <DatumPocetkaOdmora>2021-06-21T10:20:00</DatumPocetkaOdmora>
+      <DatumKrajaOdmora>2021-06-27T00:00:00</DatumKrajaOdmora>
+      <DatumRodjenja>1973-11-11T12:20:00</DatumRodjenja>
+      <MestoRodjenja>Bijeljina</MestoRodjenja>
+      <Specijalista>false</Specijalista>
+      <Id>121234</Id>
+      <Jmbg>1111973186876</Jmbg>
+      <Ime>Nikola</Ime>
+      <Prezime>Rosic</Prezime>
+    </Lekar>
+    <IdPacijenta>0</IdPacijenta>
+    <Pacijent>
+      <ValidationErrors />
+      <IsValid>false</IsValid>
+      <recepti />
+      <Blokiran>false</Blokiran>
+      <ListaSifriBeleski>
+        <int>608686189</int>
+        <int>1522041455</int>
+      </ListaSifriBeleski>
+      <ListaBolesti>
+        <Bolest>
+          <Naziv>Prehlada</Naziv>
+          <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+          <Terapija>
+            <OpisTerapije>Bla bla</OpisTerapije>
+          </Terapija>
+        </Bolest>
+        <Bolest>
+          <Naziv>Glaukom</Naziv>
+          <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+          <Terapija>
+            <OpisTerapije>BBBB</OpisTerapije>
+          </Terapija>
+        </Bolest>
+        <Bolest>
+          <Naziv>Prelom ruke</Naziv>
+          <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+          <Terapija>
+            <OpisTerapije>ccccc</OpisTerapije>
+          </Terapija>
+        </Bolest>
+      </ListaBolesti>
+      <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+      <BrojZakazivanjaUDanu>4</BrojZakazivanjaUDanu>
+      <DatumPoslednjegOcenjivanjaBolnice>2021-05-18T10:33:42.217744+02:00</DatumPoslednjegOcenjivanjaBolnice>
+      <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+      <DatumPoslednjegZakazivanja>2021-05-25T23:50:00.4746168+02:00</DatumPoslednjegZakazivanja>
+      <Id>2061438225</Id>
+      <SifreZakazanihTermina />
+      <Ime>Milorad</Ime>
+      <Prezime>Vulovic</Prezime>
+      <Jmbg>2212998180850</Jmbg>
+      <HitanSlucaj>false</HitanSlucaj>
+      <IdZK>442024814</IdZK>
+    </Pacijent>
+    <Pomeren>false</Pomeren>
+    <Sifra>482654601</Sifra>
+    <ImePrzLekar> </ImePrzLekar>
+    <LekarInfo>Nikola Rosic</LekarInfo>
+    <PacijentInfo> </PacijentInfo>
+  </Termin>
+  <Termin>
+    <KrajTermina>0001-01-01T00:00:00</KrajTermina>
+    <Slobodan>false</Slobodan>
+    <Ocenjen>false</Ocenjen>
+    <SifraSobe>1253171816</SifraSobe>
+    <DatumVreme>2021-07-15T11:20:00</DatumVreme>
+    <Lekar>
+      <ValidationErrors />
+      <IsValid>true</IsValid>
+      <PocetakRadnogVremena>0001-01-01T08:00:00</PocetakRadnogVremena>
+      <KrajRadnogVremena>0001-01-01T17:00:00</KrajRadnogVremena>
+      <DatumPocetkaOdmora>2021-06-21T10:20:00</DatumPocetkaOdmora>
+      <DatumKrajaOdmora>2021-06-27T00:00:00</DatumKrajaOdmora>
+      <DatumRodjenja>1973-11-11T12:20:00</DatumRodjenja>
+      <MestoRodjenja>Bijeljina</MestoRodjenja>
+      <Specijalista>false</Specijalista>
+      <Id>121234</Id>
+      <Jmbg>1111973186876</Jmbg>
+      <Ime>Nikola</Ime>
+      <Prezime>Rosic</Prezime>
+    </Lekar>
+    <IdPacijenta>0</IdPacijenta>
+    <Pacijent>
+      <ValidationErrors />
+      <IsValid>false</IsValid>
+      <recepti />
+      <Blokiran>false</Blokiran>
+      <ListaSifriBeleski>
+        <int>608686189</int>
+        <int>1522041455</int>
+      </ListaSifriBeleski>
+      <ListaBolesti>
+        <Bolest>
+          <Naziv>Prehlada</Naziv>
+          <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+          <Terapija>
+            <OpisTerapije>Bla bla</OpisTerapije>
+          </Terapija>
+        </Bolest>
+        <Bolest>
+          <Naziv>Glaukom</Naziv>
+          <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+          <Terapija>
+            <OpisTerapije>BBBB</OpisTerapije>
+          </Terapija>
+        </Bolest>
+        <Bolest>
+          <Naziv>Prelom ruke</Naziv>
+          <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+          <Terapija>
+            <OpisTerapije>ccccc</OpisTerapije>
+          </Terapija>
+        </Bolest>
+      </ListaBolesti>
+      <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+      <BrojZakazivanjaUDanu>4</BrojZakazivanjaUDanu>
+      <DatumPoslednjegOcenjivanjaBolnice>2021-05-18T10:33:42.217744+02:00</DatumPoslednjegOcenjivanjaBolnice>
+      <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+      <DatumPoslednjegZakazivanja>2021-05-25T23:50:00.4746168+02:00</DatumPoslednjegZakazivanja>
+      <Id>2061438225</Id>
+      <SifreZakazanihTermina />
+      <Ime>Milorad</Ime>
+      <Prezime>Vulovic</Prezime>
+      <Jmbg>2212998180850</Jmbg>
+      <HitanSlucaj>false</HitanSlucaj>
+      <IdZK>442024814</IdZK>
+    </Pacijent>
+    <Pomeren>false</Pomeren>
+    <Sifra>1808213301</Sifra>
+    <ImePrzLekar> </ImePrzLekar>
+    <LekarInfo>Nikola Rosic</LekarInfo>
+    <PacijentInfo> </PacijentInfo>
+  </Termin>
+</ArrayOfTermin>

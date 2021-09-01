@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfBug xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Bug>
+    <Id>1296581888</Id>
+    <Uloga>Sekretar</Uloga>
+    <Poruka>sdaasdsdadsasda</Poruka>
+  </Bug>
+</ArrayOfBug>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfRecept xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recept>
+    <NazivZdravstveneUstanove>Bolnica KT5</NazivZdravstveneUstanove>
+    <DatumIzdavanjaLeka>2021-05-25T09:48:44.4878371+02:00</DatumIzdavanjaLeka>
+    <NacinUpotrebe>2</NacinUpotrebe>
+    <SifraLeka>1814382175</SifraLeka>
+    <KolicinaLeka>2</KolicinaLeka>
+    <JmbgPacijenta>2212998180850</JmbgPacijenta>
+    <SifraRecepta>1839676224</SifraRecepta>
+  </Recept>
+  <Recept>
+    <NazivZdravstveneUstanove>Bolnica KT5</NazivZdravstveneUstanove>
+    <DatumIzdavanjaLeka>2021-05-25T09:49:03.720818+02:00</DatumIzdavanjaLeka>
+    <NacinUpotrebe>1</NacinUpotrebe>
+    <SifraLeka>1380589508</SifraLeka>
+    <KolicinaLeka>1</KolicinaLeka>
+    <JmbgPacijenta>2212998180850</JmbgPacijenta>
+    <SifraRecepta>868317553</SifraRecepta>
+  </Recept>
+  <Recept>
+    <NazivZdravstveneUstanove>Bolnica KT5</NazivZdravstveneUstanove>
+    <DatumIzdavanjaLeka>2021-05-25T18:26:11.9898539+02:00</DatumIzdavanjaLeka>
+    <NacinUpotrebe>2</NacinUpotrebe>
+    <SifraLeka>1380589508</SifraLeka>
+    <KolicinaLeka>2</KolicinaLeka>
+    <JmbgPacijenta>0602000800058</JmbgPacijenta>
+    <SifraRecepta>708806850</SifraRecepta>
+  </Recept>
+</ArrayOfRecept>

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<ArrayOfSoba xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Soba>
+    <KrevetiInventar />
+    <Sifra>1253101816</Sifra>
+    <Tip>Ordinacija</Tip>
+    <Sprat>2</Sprat>
+    <BrojSobe>1221</BrojSobe>
+    <Kapacitet>0</Kapacitet>
+    <Zauzetost>0</Zauzetost>
+    <Slobodna>false</Slobodna>
+  </Soba>
+  <Soba>
+    <KrevetiInventar />
+    <Sifra>1253171816</Sifra>
+    <Tip>Ordinacija</Tip>
+    <Sprat>3</Sprat>
+    <BrojSobe>121</BrojSobe>
+    <Kapacitet>0</Kapacitet>
+    <Zauzetost>0</Zauzetost>
+    <Slobodna>false</Slobodna>
+  </Soba>
+  <Soba>
+    <KrevetiInventar>
+      <int>1940233189</int>
+      <int>573573493</int>
+      <int>1481385204</int>
+    </KrevetiInventar>
+    <Sifra>818333377</Sifra>
+    <Tip>Bolesnicka</Tip>
+    <Sprat>4</Sprat>
+    <BrojSobe>3</BrojSobe>
+    <Kapacitet>3</Kapacitet>
+    <Zauzetost>0</Zauzetost>
+    <Slobodna>true</Slobodna>
+  </Soba>
+  <Soba>
+    <KrevetiInventar />
+    <Sifra>1645788298</Sifra>
+    <Tip>OperacionaSala</Tip>
+    <Sprat>2</Sprat>
+    <BrojSobe>21312</BrojSobe>
+    <Kapacitet>0</Kapacitet>
+    <Zauzetost>0</Zauzetost>
+    <Slobodna>true</Slobodna>
+  </Soba>
+  <Soba>
+    <KrevetiInventar />
+    <Sifra>1465894128</Sifra>
+    <Tip>OperacionaSala</Tip>
+    <Sprat>3</Sprat>
+    <BrojSobe>12315</BrojSobe>
+    <Kapacitet>0</Kapacitet>
+    <Zauzetost>0</Zauzetost>
+    <Slobodna>true</Slobodna>
+  </Soba>
+  <Soba>
+    <KrevetiInventar />
+    <Sifra>452207547</Sifra>
+    <Tip>OperacionaSala</Tip>
+    <Sprat>1</Sprat>
+    <BrojSobe>86</BrojSobe>
+    <Kapacitet>0</Kapacitet>
+    <Zauzetost>0</Zauzetost>
+    <Slobodna>true</Slobodna>
+  </Soba>
+  <Soba>
+    <KrevetiInventar />
+    <Sifra>105978196</Sifra>
+    <Tip>Ordinacija</Tip>
+    <Sprat>3</Sprat>
+    <BrojSobe>3213</BrojSobe>
+    <Kapacitet>0</Kapacitet>
+    <Zauzetost>0</Zauzetost>
+    <Slobodna>true</Slobodna>
+  </Soba>
+</ArrayOfSoba>

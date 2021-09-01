@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfBeleska xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Beleska>
+    <NazivBeleske>Vitamini za danas</NazivBeleske>
+    <DatumKreiranjaBeleske>2021-05-25T20:42:31.3453233+02:00</DatumKreiranjaBeleske>
+    <SadrzajBeleske>Uzmi vitamin c</SadrzajBeleske>
+    <SifraBeleske>608686189</SifraBeleske>
+  </Beleska>
+  <Beleska>
+    <NazivBeleske>Setnja</NazivBeleske>
+    <DatumKreiranjaBeleske>2021-05-25T20:42:32.3460026+02:00</DatumKreiranjaBeleske>
+    <SadrzajBeleske>Prosetaj 10km</SadrzajBeleske>
+    <SifraBeleske>1522041455</SifraBeleske>
+  </Beleska>
+  <Beleska>
+    <NazivBeleske>Trcanje</NazivBeleske>
+    <DatumKreiranjaBeleske>2021-05-26T00:27:33.3812584+02:00</DatumKreiranjaBeleske>
+    <SadrzajBeleske>Trci 5km danas.</SadrzajBeleske>
+    <SifraBeleske>1948170793</SifraBeleske>
+  </Beleska>
+</ArrayOfBeleska>

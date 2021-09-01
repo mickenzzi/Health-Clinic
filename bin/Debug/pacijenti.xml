@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<ArrayOfPacijent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Pacijent>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <recepti />
+    <Blokiran>false</Blokiran>
+    <ListaSifriBeleski>
+      <int>608686189</int>
+      <int>1522041455</int>
+    </ListaSifriBeleski>
+    <ListaBolesti>
+      <Bolest>
+        <Naziv>Prehlada</Naziv>
+        <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+        <Terapija>
+          <OpisTerapije>Bla bla</OpisTerapije>
+        </Terapija>
+      </Bolest>
+      <Bolest>
+        <Naziv>Glaukom</Naziv>
+        <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+        <Terapija>
+          <OpisTerapije>BBBB</OpisTerapije>
+        </Terapija>
+      </Bolest>
+      <Bolest>
+        <Naziv>Prelom ruke</Naziv>
+        <DatumDijagnoze>2021-05-25T19:15:54.0429712+02:00</DatumDijagnoze>
+        <Terapija>
+          <OpisTerapije>ccccc</OpisTerapije>
+        </Terapija>
+      </Bolest>
+    </ListaBolesti>
+    <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+    <BrojZakazivanjaUDanu>4</BrojZakazivanjaUDanu>
+    <DatumPoslednjegOcenjivanjaBolnice>2021-05-18T10:33:42.217744+02:00</DatumPoslednjegOcenjivanjaBolnice>
+    <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+    <DatumPoslednjegZakazivanja>2021-05-25T23:50:00.4746168+02:00</DatumPoslednjegZakazivanja>
+    <Id>2061438225</Id>
+    <SifreZakazanihTermina />
+    <Ime>Milorad</Ime>
+    <Prezime>Vulovic</Prezime>
+    <Jmbg>2212998180850</Jmbg>
+    <HitanSlucaj>false</HitanSlucaj>
+    <IdZK>442024814</IdZK>
+  </Pacijent>
+  <Pacijent>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <recepti />
+    <Blokiran>false</Blokiran>
+    <ListaSifriBeleski />
+    <ListaBolesti />
+    <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+    <BrojZakazivanjaUDanu>0</BrojZakazivanjaUDanu>
+    <DatumPoslednjegOcenjivanjaBolnice>2021-05-25T14:43:27.7864155+02:00</DatumPoslednjegOcenjivanjaBolnice>
+    <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+    <DatumPoslednjegZakazivanja>0001-01-01T00:00:00</DatumPoslednjegZakazivanja>
+    <Id>1480687365</Id>
+    <SifreZakazanihTermina />
+    <Ime>Vladimir</Ime>
+    <Prezime>Ciric</Prezime>
+    <Jmbg>0602000800058</Jmbg>
+    <HitanSlucaj>false</HitanSlucaj>
+    <IdZK>1029330253</IdZK>
+  </Pacijent>
+  <Pacijent>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <recepti />
+    <Blokiran>false</Blokiran>
+    <ListaSifriBeleski />
+    <ListaBolesti />
+    <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+    <BrojZakazivanjaUDanu>0</BrojZakazivanjaUDanu>
+    <DatumPoslednjegOcenjivanjaBolnice>2021-06-03T11:02:14.1169384+02:00</DatumPoslednjegOcenjivanjaBolnice>
+    <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+    <DatumPoslednjegZakazivanja>0001-01-01T00:00:00</DatumPoslednjegZakazivanja>
+    <Id>1363094038</Id>
+    <SifreZakazanihTermina />
+    <Ime>Jovan</Ime>
+    <Prezime>Jovanovic</Prezime>
+    <Jmbg>1111999187765</Jmbg>
+    <HitanSlucaj>true</HitanSlucaj>
+    <IdZK>294347621</IdZK>
+  </Pacijent>
+  <Pacijent>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <recepti />
+    <Blokiran>false</Blokiran>
+    <ListaSifriBeleski />
+    <ListaBolesti />
+    <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+    <BrojZakazivanjaUDanu>0</BrojZakazivanjaUDanu>
+    <DatumPoslednjegOcenjivanjaBolnice>2021-06-03T11:02:44.2407475+02:00</DatumPoslednjegOcenjivanjaBolnice>
+    <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+    <DatumPoslednjegZakazivanja>0001-01-01T00:00:00</DatumPoslednjegZakazivanja>
+    <Id>1497504927</Id>
+    <SifreZakazanihTermina />
+    <Ime>Vladimir</Ime>
+    <Prezime>Vladic</Prezime>
+    <Jmbg>1212998185651</Jmbg>
+    <HitanSlucaj>true</HitanSlucaj>
+    <IdZK>800842163</IdZK>
+  </Pacijent>
+  <Pacijent>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <recepti />
+    <Blokiran>false</Blokiran>
+    <ListaSifriBeleski />
+    <ListaBolesti />
+    <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+    <BrojZakazivanjaUDanu>0</BrojZakazivanjaUDanu>
+    <DatumPoslednjegOcenjivanjaBolnice>2021-06-07T18:29:01.8345141+02:00</DatumPoslednjegOcenjivanjaBolnice>
+    <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+    <DatumPoslednjegZakazivanja>0001-01-01T00:00:00</DatumPoslednjegZakazivanja>
+    <Id>1810067379</Id>
+    <SifreZakazanihTermina />
+    <Ime>Anastasija</Ime>
+    <Prezime>Stevic</Prezime>
+    <Jmbg>1111999189841</Jmbg>
+    <HitanSlucaj>true</HitanSlucaj>
+    <IdZK>865849104</IdZK>
+  </Pacijent>
+  <Pacijent>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <recepti />
+    <Blokiran>false</Blokiran>
+    <ListaSifriBeleski />
+    <ListaBolesti />
+    <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+    <BrojZakazivanjaUDanu>0</BrojZakazivanjaUDanu>
+    <DatumPoslednjegOcenjivanjaBolnice>2021-06-07T18:30:43.6870276+02:00</DatumPoslednjegOcenjivanjaBolnice>
+    <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+    <DatumPoslednjegZakazivanja>0001-01-01T00:00:00</DatumPoslednjegZakazivanja>
+    <Id>1208939442</Id>
+    <SifreZakazanihTermina />
+    <Ime>Milos</Ime>
+    <Prezime>Milosevic</Prezime>
+    <Jmbg>0101998165643</Jmbg>
+    <HitanSlucaj>false</HitanSlucaj>
+    <IdZK>1568009912</IdZK>
+  </Pacijent>
+  <Pacijent>
+    <ValidationErrors />
+    <IsValid>true</IsValid>
+    <Blokiran>false</Blokiran>
+    <BrojPomeranjaUDanu>0</BrojPomeranjaUDanu>
+    <BrojZakazivanjaUDanu>0</BrojZakazivanjaUDanu>
+    <DatumPoslednjegOcenjivanjaBolnice>2021-06-09T16:11:06.9194636+02:00</DatumPoslednjegOcenjivanjaBolnice>
+    <DatumPoslednjegPomeranja>0001-01-01T00:00:00</DatumPoslednjegPomeranja>
+    <DatumPoslednjegZakazivanja>0001-01-01T00:00:00</DatumPoslednjegZakazivanja>
+    <Id>1253075180</Id>
+    <Ime>Jovan</Ime>
+    <Prezime>Vulovic</Prezime>
+    <Jmbg>12122112</Jmbg>
+    <HitanSlucaj>true</HitanSlucaj>
+    <IdZK>1404709713</IdZK>
+  </Pacijent>
+</ArrayOfPacijent>

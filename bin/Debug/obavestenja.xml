@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<ArrayOfObavestenje xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Klinika nece raditi 19.6.2021.godine.</Poruka>
+    <Id>375183897</Id>
+    <IdPacijenta>0</IdPacijenta>
+    <ObavestenPacijent>false</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste operaciju kod Miodrag Spasojevic za 05/20/2021 5:53:03 PM.</Poruka>
+    <Id>1769977065</Id>
+    <IdPacijenta>0</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 3.6.2021. 13:17:17.</Poruka>
+    <Id>242041381</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Ana Jovanovic za 3.6.2021. 13:18:19.</Poruka>
+    <Id>466250630</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Ana Jovanovic za 3.6.2021. 13:18:19.</Poruka>
+    <Id>1515510414</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Ana Jovanovic za 3.6.2021. 13:20:45.</Poruka>
+    <Id>1704976226</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod   za 3.6.2021. 13:20:49.</Poruka>
+    <Id>487264755</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod   za 3.6.2021. 13:20:51.</Poruka>
+    <Id>1670025900</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod   za 3.6.2021. 13:20:49.</Poruka>
+    <Id>1747927013</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Ana Jovanovic za 3.6.2021. 13:20:45.</Poruka>
+    <Id>1038428524</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 3.6.2021. 13:24:40.</Poruka>
+    <Id>435845734</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Nikola Rosic za 3.6.2021. 13:24:40.</Poruka>
+    <Id>726811063</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 3.6.2021. 13:25:13.</Poruka>
+    <Id>31781091</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Ana Jovanovic za 3.6.2021. 13:25:14.</Poruka>
+    <Id>1050442099</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod   za 3.6.2021. 13:25:16.</Poruka>
+    <Id>504875634</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod   za 3.6.2021. 13:25:17.</Poruka>
+    <Id>1336264888</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod   za 3.6.2021. 13:25:19.</Poruka>
+    <Id>1097457785</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 3.6.2021. 13:32:21.</Poruka>
+    <Id>1864569458</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Ana Jovanovic za 3.6.2021. 13:32:27.</Poruka>
+    <Id>632844234</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Pomerili ste pregled kod Ana Jovanovic za 11.11.2021. 22:20:00.</Poruka>
+    <Id>482217599</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Ana Jovanovic za 3.6.2021. 13:32:27.</Poruka>
+    <Id>909438640</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 7.6.2021. 19:04:01.</Poruka>
+    <Id>1150817013</Id>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Miodrag Spasojevic za 7.6.2021. 20:57:12.</Poruka>
+    <Id>1057309821</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 8.6.2021. 10:29:30.</Poruka>
+    <Id>1809134720</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Danijela Djukin za 8.6.2021. 10:29:33.</Poruka>
+    <Id>1900426709</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Miodrag Spasojevic za 7.6.2021. 20:57:12.</Poruka>
+    <Id>1093000062</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitnu operaciju kod Miodrag Spasojevic za 8.6.2021. 10:30:03.</Poruka>
+    <Id>1503284886</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 8.6.2021. 10:34:22.</Poruka>
+    <Id>1651825856</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Ana Jovanovic za 8.6.2021. 10:34:29.</Poruka>
+    <Id>1640215260</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Miodrag Spasojevic za 8.6.2021. 10:34:38.</Poruka>
+    <Id>80794101</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Danijela Djukin za 8.6.2021. 10:34:41.</Poruka>
+    <Id>1443904180</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Nikola Rosic za 8.6.2021. 10:20:00.</Poruka>
+    <Id>185717207</Id>
+    <IdPacijenta>1363094038</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste operaciju kod Nikola Rosic za 8.6.2021. 10:20:00.</Poruka>
+    <Id>1131906293</Id>
+    <IdPacijenta>1363094038</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Nikola Rosic za 10.6.2021. 11:10:00.</Poruka>
+    <Id>1764869871</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Nikola Rosic za 8.6.2021. 10:34:22.</Poruka>
+    <Id>128457127</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Miodrag Spasojevic za 9.6.2021. 10:20:00.</Poruka>
+    <Id>473854502</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Miodrag Spasojevic za 8.6.2021. 10:34:38.</Poruka>
+    <Id>2085265774</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 8.6.2021. 19:47:35.</Poruka>
+    <Id>832648783</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Nikola Rosic za 8.6.2021. 19:47:35.</Poruka>
+    <Id>1227581329</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Ana Jovanovic za 8.6.2021. 10:34:29.</Poruka>
+    <Id>952516474</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Nikola Rosic za 17.6.2021. 10:20:00.</Poruka>
+    <Id>1392764188</Id>
+    <IdPacijenta>1810067379</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Nikola Rosic za 17.6.2021. 10:20:00.</Poruka>
+    <Id>1514823066</Id>
+    <IdPacijenta>1810067379</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Nikola Rosic za 18.6.2021. 12:20:00.</Poruka>
+    <Id>2126393397</Id>
+    <IdPacijenta>1810067379</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Miodrag Spasojevic za 11.6.2021. 15:30:00.</Poruka>
+    <Id>1339903323</Id>
+    <IdPacijenta>1810067379</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 9.6.2021. 11:45:50.</Poruka>
+    <Id>1452871090</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Nikola Rosic za 10.6.2021. 11:20:00.</Poruka>
+    <Id>1893002476</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Ana Jovanovic za 10.6.2021. 10:20:00.</Poruka>
+    <Id>1308459562</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Miodrag Spasojevic za 9.6.2021. 11:30:00.</Poruka>
+    <Id>48874945</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 9.6.2021. 11:49:24.</Poruka>
+    <Id>1183126775</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Danijela Djukin za 9.6.2021. 11:50:28.</Poruka>
+    <Id>660484052</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Ana Jovanovic za 12.6.2021. 11:11:00.</Poruka>
+    <Id>232288689</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Nikola Rosic za 9.6.2021. 11:54:21.</Poruka>
+    <Id>1747213647</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste hitan pregled kod Ana Jovanovic za 9.6.2021. 11:54:27.</Poruka>
+    <Id>1480379038</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Miodrag Spasojevic za 26.6.2021. 10:20:00.</Poruka>
+    <Id>1478430645</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Miodrag Spasojevic za 26.6.2021. 10:20:00.</Poruka>
+    <Id>965797554</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Otkazali ste pregled kod Ana Jovanovic za 9.6.2021. 11:54:27.</Poruka>
+    <Id>1492830603</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+  <Obavestenje>
+    <ValidationErrors />
+    <IsValid>false</IsValid>
+    <Poruka>Zakazali ste pregled kod Nikola Rosic za 15.7.2021. 11:20:00.</Poruka>
+    <Id>1808213303</Id>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <ObavestenPacijent>true</ObavestenPacijent>
+  </Obavestenje>
+</ArrayOfObavestenje>

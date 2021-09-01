@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfOcena xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ocena>
+    <SifraOcene>318983497</SifraOcene>
+    <VrednostOcene>Cetiri</VrednostOcene>
+    <vremeOcenjivanja>2021-05-04T19:39:02.195918+02:00</vremeOcenjivanja>
+    <dodatniKomentar>Okej bolnica skroz</dodatniKomentar>
+  </Ocena>
+</ArrayOfOcena>

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<ArrayOfZdravstveniKarton xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ZdravstveniKarton>
+    <Anamneza>Asdd</Anamneza>
+    <DatumRodjenja>1998-12-22T07:00:00</DatumRodjenja>
+    <MestoStanovanja>Novi Sad</MestoStanovanja>
+    <Telefon>064/2340-760</Telefon>
+    <UlicaIbroj>Puskinova 3</UlicaIbroj>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>2061438225</IdPacijenta>
+    <Id>442024814</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <DatumRodjenja>0001-01-01T00:00:00</DatumRodjenja>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1120506452</IdPacijenta>
+    <Id>1169908124</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>2000-06-02T00:00:00</DatumRodjenja>
+    <MestoStanovanja>Kac</MestoStanovanja>
+    <Telefon>0628693974</Telefon>
+    <UlicaIbroj>Boska Buhe 19</UlicaIbroj>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1480687365</IdPacijenta>
+    <Id>1029330253</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>0001-01-01T00:00:00</DatumRodjenja>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1363094038</IdPacijenta>
+    <Id>294347621</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>0001-01-01T00:00:00</DatumRodjenja>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1497504927</IdPacijenta>
+    <Id>800842163</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>0001-01-01T00:00:00</DatumRodjenja>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1848520818</IdPacijenta>
+    <Id>2009870017</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>2021-06-07T00:00:00</DatumRodjenja>
+    <MestoStanovanja>1Novi Sad1</MestoStanovanja>
+    <Telefon>231123123</Telefon>
+    <UlicaIbroj>Mise Dimitrijevica 44</UlicaIbroj>
+    <Pol>Zenski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1810067379</IdPacijenta>
+    <Id>865849104</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>1998-01-01T00:00:00</DatumRodjenja>
+    <MestoStanovanja>Novi Sad</MestoStanovanja>
+    <Telefon>023121</Telefon>
+    <UlicaIbroj>Tolstojeva 12</UlicaIbroj>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1208939442</IdPacijenta>
+    <Id>1568009912</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>1993-10-11T00:00:00</DatumRodjenja>
+    <MestoStanovanja>Novi Sad</MestoStanovanja>
+    <Telefon>21321321</Telefon>
+    <UlicaIbroj>Jovana Subotica 12</UlicaIbroj>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>16722983</IdPacijenta>
+    <Id>240447140</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>1993-10-11T00:00:00</DatumRodjenja>
+    <MestoStanovanja>Novi Sad11</MestoStanovanja>
+    <Telefon>21312</Telefon>
+    <UlicaIbroj>1231</UlicaIbroj>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>2124398205</IdPacijenta>
+    <Id>1376399183</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>1993-10-11T00:00:00</DatumRodjenja>
+    <MestoStanovanja>Novi Sad121</MestoStanovanja>
+    <Telefon>2</Telefon>
+    <UlicaIbroj>1</UlicaIbroj>
+    <Pol>Zenski</Pol>
+    <BracniStatus>OzenjenUdata</BracniStatus>
+    <IdPacijenta>530975024</IdPacijenta>
+    <Id>243801049</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>0001-01-01T00:00:00</DatumRodjenja>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>64285561</IdPacijenta>
+    <Id>56021536</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>0001-01-01T00:00:00</DatumRodjenja>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1242111055</IdPacijenta>
+    <Id>1961641580</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>1888-12-12T00:00:00</DatumRodjenja>
+    <MestoStanovanja>asdsadads</MestoStanovanja>
+    <Telefon>dassda</Telefon>
+    <UlicaIbroj>asdasd</UlicaIbroj>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>284636800</IdPacijenta>
+    <Id>1221662303</Id>
+  </ZdravstveniKarton>
+  <ZdravstveniKarton>
+    <Anamneza>Nema anamneze</Anamneza>
+    <DatumRodjenja>0001-01-01T00:00:00</DatumRodjenja>
+    <Pol>Muski</Pol>
+    <BracniStatus>NeozenjenNeudata</BracniStatus>
+    <IdPacijenta>1253075180</IdPacijenta>
+    <Id>1404709713</Id>
+  </ZdravstveniKarton>
+</ArrayOfZdravstveniKarton>
